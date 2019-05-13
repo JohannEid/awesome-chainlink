@@ -68,6 +68,8 @@
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
 - [What Is ChainLink (LINK)?](https://www.investinblockchain.com/what-is-chainlink-link/) : Invest in Blockchain by David Olarinoye
-- [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : 
-- []()
-- []()
+- [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
+- [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis
+- [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
+
+## Hackathons 
