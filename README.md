@@ -8,8 +8,7 @@
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md)
 
->Items marked with ![Chainlink Core][Chainlink Core] are officially maintained and distributed by the Chainlink team as part of the core set of applications and tools
-
+>Items marked with ![Chainlink Core][Chainlink Core] are officially maintained and distributed by the Chainlink team as part of the core set of resources
 --- 
 
 ## Table of Contents
