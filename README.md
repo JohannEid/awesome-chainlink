@@ -63,7 +63,6 @@
 - [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
 - [The Top 5 Reasons Every Institutional Investor Should Have A Position In Chainlink](https://blog.goodaudience.com/the-top-5-reasons-every-institutional-investor-should-have-a-position-in-chainlink-fec15538c1ab) : Medium by the Crypto Oracle
 - [The Fourth Industrial Revolution: The Rise Of The Autonomous Economy](https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3) :  Medium by the Crypto Oracle
-- [Why I believe chainlink (LINK) is the most undervalued coin in the top 100](https://www.reddit.com/r/CryptoCurrency/comments/7nwis4/why_i_believe_chainlink_link_is_the_most/) : Reddit post by u/hackis
 - [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/) : Mit Technology Review by Mike Orcutt
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
