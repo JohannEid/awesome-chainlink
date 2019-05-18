@@ -71,3 +71,33 @@
 - [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
 
 ## Hackathons 
+
+
+## Videos`
+
+-  04/04/19 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
+- 10/08/2018 [Chainlink Presentation at San Francisco Blockchain Week](https://www.youtube.com/watch?v=G5TQzHIFV-A)
+- 12/12/2018 [ChainLink NYC Ethereum meetup](https://www.youtube.com/watch?v=YBP0qT9SRlU)
+- 02/30/2018 [Sergey Nazarov, CEO - Chainlink - Securely connecting Smart Contracts to off-chain data and events](https://www.youtube.com/watch?v=XYiEPFRHV9A)
+- 02/14/2019 [Chainlink EthDenver Meetup with Dan Kochis](https://www.youtube.com/watch?v=GJMEWb0YqzM)
+- 05/14/2019 [Connecting Blockchain and the Real World" by Sergey Nazarov, Chainlink | Fluidity 2019](https://www.youtube.com/watch?v=uDHumZC8VsU)
+- 03/24/2019 [ETHParis: Chainlink - How to connect your smart contract to external data](https://youtu.be/Mm6_SGcew5g)
+- 02/27/2019 [Chainlink Fireside Chat with DocuSign Founder Tom Gonser](https://www.youtube.com/watch?v=SZ3iy_jYFS4&t=529s)
+- 10/29/2019 [Decentralized Oracles: Providing Access to Key Off-chain Data Sources by Sergey Nazarov](https://www.youtube.com/watch?v=_wzfIS6YC-I&t=566s)
+- 03/04/2019 [Chainlink / Kaiko Live Demo ](https://youtu.be/pCr8gywFehw)
+- 04/18/2019 [Wanchain & Chainlink Austin, TX April 2019](https://youtu.be/6OS_fg9u21k)
+- 02/19/2019 [ChainLink Conference - Taking Smart Contracts Beyond Tokenization](https://youtu.be/vd4VnkuCjI0)
+- 11/04/2019 [Sergey Nazarov (SmartContract, ChainLink) @ Devcon3](https://www.youtube.com/watch?v=kW27zYIxZhY)
+- 09/08/2017 [SF Ethereum Developers Meetup - Sergey Nazarov on ChainLink](https://www.youtube.com/watch?v=nMlpTgxKtAY)
+- 11/02/2018 [Decentralized Oracles" by Sergey Nazarov @Devcon 2018 in prague](https://www.youtube.com/watch?v=mh6hCl_LHQU)
+- 11/10/2018 [CESC18: Secure Decentralized Oracles & Their Role in Reliably Triggering Smart Contracts](https://www.youtube.com/watch?v=js5SL5Z1ZxY)
+- 03/25/2019 [EthCC2 : Meet the Sponsors : Chainlink by Rory Piant](https://www.youtube.com/watch?v=sLxjUcBMbUQ&t=0s)
+- // []()
+- // []()
+- // []()
+
+
+
+
+
+## What you can build 
