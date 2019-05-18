@@ -92,9 +92,10 @@
 - 11/02/2018 [Decentralized Oracles" by Sergey Nazarov @Devcon 2018 in prague](https://www.youtube.com/watch?v=mh6hCl_LHQU)
 - 11/10/2018 [CESC18: Secure Decentralized Oracles & Their Role in Reliably Triggering Smart Contracts](https://www.youtube.com/watch?v=js5SL5Z1ZxY)
 - 03/25/2019 [EthCC2 : Meet the Sponsors : Chainlink by Rory Piant](https://www.youtube.com/watch?v=sLxjUcBMbUQ&t=0s)
-- // []()
-- // []()
-- // []()
+- // [Sergey Nazarov of SmartContract.com interview at Sibos](https://www.youtube.com/watch?v=xs0gbn3BMPg)
+- 02/19/2017 [Ethereum Enthusiasts NYC: SmartContracts.com and Oracles @ Thoughtworks](https://www.youtube.com/watch?v=ytv8U0bejPA)
+- 02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://youtu.be/OTaSvj9Fc60)
+
 
 
 
