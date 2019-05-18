@@ -2,7 +2,7 @@
 
 [<img src="img/chainlink-logo.png" align="right" width="150">](https://chain.link/)
 
-> A curated list of _awesome_ resources, tutorials, articles partners and many othersto learn everything Chainlink
+> A curated list of _awesome_ resources, tutorials, articles partners and many others to learn everything Chainlink
 
 [Chainlink](https://chain.link/) is a decentralized network of oracles that allow smart contracts to securely interface with external data feeds, events and payment methods. Chainlinks provide the critical off chain information needed by complex smart contracts to become the dominant form of digital agreement. 
 
