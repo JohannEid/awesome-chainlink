@@ -69,6 +69,9 @@
 
 ## Hackathons 
 
+## Tutorials 
+
+- [Runnign a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
 
 ## Videos`
 
