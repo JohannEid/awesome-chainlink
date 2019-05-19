@@ -147,7 +147,7 @@
 
 # LINK 
 
-## Hold your LINK
+## Store your LINK
 
 - ### Hardware Wallets
     - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
