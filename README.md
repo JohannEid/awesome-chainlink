@@ -58,7 +58,7 @@
 - [ChainLink and Its 4 Main Use Cases](https://medium.com/altcoin-magazine/the-four-biggest-use-cases-for-chainlink-a0245bd07b66) : Medium by the Crypto Oracle 
 - [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
 - [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
-- [The Top 5 Reasons Every Institutional Investor Should Have A Position In Chainlink](https://blog.goodaudience.com/the-top-5-reasons-every-institutional-investor-should-have-a-position-in-chainlink-fec15538c1ab) : Medium by the Crypto Oracle
+- [Analysis of Chainlink — The Decentralised Oracle Network](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) : Medium by Jonny Huxtable
 - [The Fourth Industrial Revolution: The Rise Of The Autonomous Economy](https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3) :  Medium by the Crypto Oracle
 - [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/) : Mit Technology Review by Mike Orcutt
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
@@ -100,14 +100,9 @@
 - 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
 -  05/08/2019 [IOST](https://medium.com/iost/iost-x-chainlink-bringing-real-world-data-on-chain-for-iost-dapps-503b00512a83)
 -  05/28/2019 [Ocean Protocol](https://blog.oceanprotocol.com/ocean-protocol-chainlink-integration-e7335f880ea3)
--  05/08/2019 [Wanchain]()
--  05/08/2019 [Kaleido]()
--  05/08/2019 [Web3]()
--  05/08/2019 []()
--  05/08/2019 []()
--  05/08/2019 []()
-
-
+-  11/12/2018 [Wanchain](https://wanchain.org/)
+-  11/08/2019 [Kaleido](https://kaleido.io/)
+-  10/22/2019 [Web3](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a)
 
 ## Smart Contract Integrations
 
@@ -117,26 +112,22 @@
 -  03/07/2019 [Provable (Oraclize)](https://provable.xyz/)
 -  02/06/2019 [Naka Chain](https://medium.com/@NakaChain/bodhi-and-naka-chain-integrate-chainlink-to-bring-dapp-development-to-the-next-stage-27fbfd1a8b75)
 -  31/01/2019 [Katallassos](https://katal.io/)
--  05/08/2019 [STK](https://stktoken.com/)
--  05/08/2019 [Mobilium]()
--  05/08/2019 [ETHA]()
--  05/08/2019 [Olympus Labs]()
--  05/08/2019 [RTrade Technologies Ltd]()
--  05/08/2019 [Kaiko]()
--  05/08/2019 [Hydrogen]()
--  05/08/2019 [bZx]()
--  05/08/2019 [Morpheus Network]()
--  05/08/2019 [Brave New Coin]()
--  05/08/2019 [GameDex]()
--  05/08/2019 [MARKET Protocol]()
--  05/08/2019 [OpenLaw]()
--  05/08/2019 [Accord Project]()
--  05/08/2019 [OpenZeppelin]()
--  05/08/2019 [Clintex]()
-
-
-
-
+-  12/18/2018 [STK](https://stktoken.com/)
+-  12/13/2018 [Mobilium](https://www.xcard.io/)
+-  12/07/2018 [ETHA](https://etharemit.org/)
+-  11/29/2018 [Olympus Labs](https://olympuslabs.io/)
+-  11/29/2018 [RTrade Technologies Ltd](https://www.rtradetechnologies.com/en/)
+-  11/14/2018 [Kaiko](https://www.kaiko.com/)
+-  11/09/2018 [Hydrogen](https://www.hydrogenplatform.com/)
+-  11/06/2018 [bZx](https://b0x.network/)
+-  10/31/2018 [Morpheus Network](https://morpheus.network/)
+-  09/05/2018 [Brave New Coin](https://bravenewcoin.com/)
+-  09/19/2018 [GameDex](https://www.gamedex.co/)
+-  08/22/2018 [MARKET Protocol](https://marketprotocol.io/)
+-  08/14/2018 [OpenLaw](https://www.openlaw.io/)
+-  07/28/2018 [Accord Project](https://www.accordproject.org/)
+-  12/18/2017  [OpenZeppelin](https://zeppelinos.org/)
+-  07/2017 [Clintex](https://www.clintex.io/)
 
 ---
 
