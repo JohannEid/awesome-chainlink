@@ -68,12 +68,6 @@
 - [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
 - [Blockchain As A Platform- The real killer use case for Blockchain & DLT](https://medium.com/@pappas999/blockchain-as-a-platform-the-real-killer-use-case-for-blockchain-dlt-8dfe5b164ca2) : Medium post by Harry Papacharissiou
 
-## Hackathons 
-
-## Tutorials 
-
-- [Runnign a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
-
 ## Videos`
 
 -  04/04/19 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
@@ -99,9 +93,17 @@
 
 ---
 
+# Developer Resources
+
 ## What you can build 
 
 - [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
+
+## Hackathons 
+
+## Tutorials 
+
+- [Runnign a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
 
 ---
 
