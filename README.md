@@ -18,19 +18,17 @@
 - [Official Material](#official-material)
 - [Official Channels](#official-channels)
 - [Primers On Chainlink](#primers-on-chainlink)
-- [Unoficial Twitter](#unofficial-twitter)
-- [Unoficial Medium](#unofficial-medium)
-- [FAQs](#faqs)
 - [Critiques](#critiques)
-- [Major Milestones | Events](#major-milestones)
 - [Partnerships](#partnerships)
 - [AMAs | Interviews](#amas--interviews)
 - [Videos](#videos)
-- [Hold your LINK](#hold-your-dai)
-- [Trade Your LINK](#trade-your-dai)
-- [Hackathons](#hackathons)
+- [Hold your LINK](#hold-your-link)
+- [Trade Your LINK](#trade-your-link)
 - [Developer Resources](#developer-resources)
+- [Hackathons](#hackathons)
 - [Oracles in General](#stablecoins-in-general)
+- [Unoficial Twitter](#unofficial-twitter)
+- [Unoficial Medium](#unofficial-medium)
 
 <!-- /TOC -->
 
@@ -50,6 +48,8 @@
 - [Telegram](https://t.me/chainlinkofficial)
 - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
 
+---
+
 ## Primers on Chainlink
 
 - [ChainLink, an Overview and Our Focus](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803) : Medium By Sergey Nazarov
@@ -66,6 +66,7 @@
 - [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
 - [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis
 - [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
+- [Blockchain As A Platform- The real killer use case for Blockchain & DLT](https://medium.com/@pappas999/blockchain-as-a-platform-the-real-killer-use-case-for-blockchain-dlt-8dfe5b164ca2) : Medium post by Harry Papacharissiou
 
 ## Hackathons 
 
@@ -96,11 +97,35 @@
 - 02/19/2017 [Ethereum Enthusiasts NYC: SmartContracts.com and Oracles @ Thoughtworks](https://www.youtube.com/watch?v=ytv8U0bejPA)
 - 02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://youtu.be/OTaSvj9Fc60)
 
-
-
-
-
+---
 
 ## What you can build 
 
 - [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
+
+---
+
+# LINK 
+
+## Hold your LINK
+
+- ### Hardware Wallets
+    - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
+    - [**Trezor**](https://trezor.io/)
+ - ### Mobile Wallets
+ 	- [**Coinomi**](https://www.coinomi.com/)
+ 	- [**Edge**](https://edge.app/)
+ 	- [**Jaxx**](https://jaxx.io/)
+ 	- [**BRD**](https://brd.com/)	
+ - ### Mobile Dapp & Browser Wallets
+ 	- [**Trust Wallet**](https://trustwalletapp.com/)
+ 	- [**Status.im**](https://status.im/)
+ 	- [**imToken**](https://token.im/)
+ - ### Web Wallets
+ 	- [**MyCrypto**](https://mycrypto.com)
+ 	- [**MyEtherWallet**](https://www.myetherwallet.com/)
+ - ### Extension Wallets
+    - [**MetaMask**](https://metamask.io/)
+ - ### Paper Wallets
+ 	-  [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
+
