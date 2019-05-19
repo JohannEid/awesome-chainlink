@@ -22,13 +22,10 @@
 - [Partnerships](#partnerships)
 - [AMAs | Interviews](#amas--interviews)
 - [Videos](#videos)
-- [Hold your LINK](#hold-your-link)
 - [Trade Your LINK](#trade-your-link)
 - [Developer Resources](#developer-resources)
 - [Hackathons](#hackathons)
 - [Oracles in General](#stablecoins-in-general)
-- [Unoficial Twitter](#unofficial-twitter)
-- [Unoficial Medium](#unofficial-medium)
 
 <!-- /TOC -->
 
@@ -91,6 +88,7 @@
 - 10/18/2017 [Sergey Nazarov of SmartContract.com interview at Sibos](https://www.youtube.com/watch?v=xs0gbn3BMPg)
 - 02/19/2017 [Ethereum Enthusiasts NYC: SmartContracts.com and Oracles @ Thoughtworks](https://www.youtube.com/watch?v=ytv8U0bejPA)
 - 02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://youtu.be/OTaSvj9Fc60)
+- 03/09/2019 [Oracles Panel at ETHDenver](https://github.com/JohannEid/awesome-chainlink/edit/master/README.md)
 
 ---
 # Partners 
