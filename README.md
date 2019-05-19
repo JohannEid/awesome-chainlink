@@ -49,6 +49,7 @@
 - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
 
 ---
+# Learn about Chainlink
 
 ## Primers on Chainlink
 
