@@ -102,3 +102,5 @@
 
 
 ## What you can build 
+
+- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
