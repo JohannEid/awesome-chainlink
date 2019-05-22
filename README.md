@@ -55,7 +55,6 @@
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
 - [What Is ChainLink (LINK)?](https://www.investinblockchain.com/what-is-chainlink-link/) : Invest in Blockchain by David Olarinoye
-
 - [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
 - [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
 
@@ -108,7 +107,8 @@
 - [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
 - [Town Crier:An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf) : Research paper by Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi
  - [Overview of Intel SGX](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html) : Article by Joffrey Guilbon
-- [https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html](Introduction to Trusted Execution Environment: ARM's TrustZone) : Article by Joffrey Guilbon
+- [Introduction to Trusted Execution Environment: ARM's TrustZone](https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html) : Article by Joffrey Guilbon
+
 
 
 
