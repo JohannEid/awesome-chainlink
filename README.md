@@ -51,20 +51,21 @@
 ## Primers on Chainlink
 
 - [ChainLink, an Overview and Our Focus](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803) : Medium By Sergey Nazarov
-- [Chainlink — The Missing Piece To The God Protocol](https://blog.goodaudience.com/chainlink-the-missing-piece-to-the-god-protocol-fd455dde92ab) : Medium by The Crypto Oracle
-- [ChainLink and Its 4 Main Use Cases](https://medium.com/altcoin-magazine/the-four-biggest-use-cases-for-chainlink-a0245bd07b66) : Medium by the Crypto Oracle 
-- [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
-- [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
 - [Analysis of Chainlink — The Decentralised Oracle Network](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) : Medium by Jonny Huxtable
-- [The Fourth Industrial Revolution: The Rise Of The Autonomous Economy](https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3) :  Medium by the Crypto Oracle
-- [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/) : Mit Technology Review by Mike Orcutt
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
 - [What Is ChainLink (LINK)?](https://www.investinblockchain.com/what-is-chainlink-link/) : Invest in Blockchain by David Olarinoye
-- [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
-- [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis
-- [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
-- [Blockchain As A Platform- The real killer use case for Blockchain & DLT](https://medium.com/@pappas999/blockchain-as-a-platform-the-real-killer-use-case-for-blockchain-dlt-8dfe5b164ca2) : Medium post by Harry Papacharissiou
+
+- [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
+- [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
+
+## Milestones
+
+
+- 02/27/2019 [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
+- 11/12/2018 [CNBC features Chainlink’s Town Crier Announcement](https://blog.chain.link/cnbc-features-chainlinks-town-crier-announcement/)
+- 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis
+
 
 ## Videos`
 
@@ -88,7 +89,30 @@
 - 10/18/2017 [Sergey Nazarov of SmartContract.com interview at Sibos](https://www.youtube.com/watch?v=xs0gbn3BMPg)
 - 02/19/2017 [Ethereum Enthusiasts NYC: SmartContracts.com and Oracles @ Thoughtworks](https://www.youtube.com/watch?v=ytv8U0bejPA)
 - 02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://youtu.be/OTaSvj9Fc60)
-- 03/09/2019 [Oracles Panel at ETHDenver](https://github.com/JohannEid/awesome-chainlink/edit/master/README.md)
+- 03/09/2019 [Oracles Panel at ETHDenver](https://www.youtube.com/watch?v=KG4Qx84fMag)
+- 03/10/2019 [Sergey Nazarov at ETHCC](https://youtu.be/oFkTUFzMJVI)
+- 03/10/2019 [Sergey Nazarov at ETHCC second](https://www.youtube.com/watch?v=s5-i_ZDH_BE)
+---
+# Going Deeper 
+
+## Vision
+
+- [ChainLink and Its 4 Main Use Cases](https://medium.com/altcoin-magazine/the-four-biggest-use-cases-for-chainlink-a0245bd07b66) : Medium by the Crypto Oracle 
+- [The Fourth Industrial Revolution: The Rise Of The Autonomous Economy](https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3) :  Medium by the Crypto Oracle
+- [Chainlink — The Missing Piece To The God Protocol](https://blog.goodaudience.com/chainlink-the-missing-piece-to-the-god-protocol-fd455dde92ab) : Medium by The Crypto Oracle
+- [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/) : Mit Technology Review by Mike Orcutt
+- [Blockchain As A Platform- The real killer use case for Blockchain & DLT](https://medium.com/@pappas999/blockchain-as-a-platform-the-real-killer-use-case-for-blockchain-dlt-8dfe5b164ca2) : Medium post by Harry Papacharissiou
+
+## Town Crier and the TEE 
+
+- [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
+- [Town Crier:An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf) : Research paper by Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi
+ - [Overview of Intel SGX](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html) : Article by Joffrey Guilbon
+- [https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html](Introduction to Trusted Execution Environment: ARM's TrustZone) : Article by Joffrey Guilbon
+
+
+
+
 
 ---
 # Partners 
@@ -131,15 +155,19 @@
 
 # Developer Resources
 
-## What you can build 
-
-- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
 
 ## Hackathons 
 
 ## Tutorials 
 
 - [Running a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
+- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
+
+## Follow the developement 
+
+-[Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones
+-[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project
+-[Chainlink Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby) : Ask all the questions related to our developement
 
 ---
 
