@@ -162,6 +162,37 @@
 - [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges
 
+## Key Repos
+
+- [chainlink-go decentralized network of oracles code](https://github.com/smartcontractkit/chainlink)
+- [Chainlinked class](https://github.com/smartcontractkit/Chainlinked)
+- [chainlink-ruby implementation](https://github.com/smartcontractkit/chainlink-ruby)
+- [LinkToken contract](https://github.com/smartcontractkit/LinkToken)
+
+
+
+## Frameworks
+
+- [Truffle](http://truffleframework.com) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and [Drizzle](https://github.com/truffle-box/drizzle-box) and [Ganache](https://truffleframework.com/ganache)
+- [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
+- [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
+- [Populus](https://github.com/ethereum/populus) - The EVM development framework with the most cute animal pictures
+- [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
+- [0xcert](https://github.com/0xcert/framework) - JavaScript framework for building decentralized applications
+- [Specron](https://specron.github.io/framework/) - Lightweight, open-source and magic-free framework for testing Solidity smart contracts
+
+## IDEs
+- [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
+- [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
+- [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom)
+- [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.
+[autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
+- [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
+- [Intellij Solidity Plugin](https://github.com/intellij-solidity/intellij-solidity/wiki) - Open-source plug-in for [JetBrains IntelliJ Idea IDE](https://www.jetbrains.com/idea/) (free/commercial) with syntax highlighting, formatting, code completion etc.
+- [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) - Eclipse based IDE. Features context sensitive code completion and help, code navigation, syntax coloring, build in compiler, quick fixes and templates.
+- [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
+
 
 ## Hackathons 
 
@@ -173,9 +204,9 @@
 
 ## Follow the developement 
 
--[Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones
--[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project
--[Chainlink Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby) : Ask all the questions related to our developement
+- [Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones
+- [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project
+- [Chainlink Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby) : Ask all the questions related to our developement
 
 ---
 
@@ -184,23 +215,23 @@
 ## Store your LINK
 
 - ### Hardware Wallets
-    - [**Ledger Nano S**](https://www.ledger.com/products/ledger-nano-s)
-    - [**Trezor**](https://trezor.io/)
+    - [Ledger Nano S](https://www.ledger.com/products/ledger-nano-s)
+    - [Trezor](https://trezor.io/)
  - ### Mobile Wallets
- 	- [**Coinomi**](https://www.coinomi.com/)
- 	- [**Edge**](https://edge.app/)
- 	- [**Jaxx**](https://jaxx.io/)
- 	- [**BRD**](https://brd.com/)	
+ 	- [Coinomi](https://www.coinomi.com/)
+ 	- [Edge](https://edge.app/)
+ 	- [Jaxx](https://jaxx.io/)
+ 	- [BRD](https://brd.com/)	
  - ### Mobile Dapp & Browser Wallets
- 	- [**Trust Wallet**](https://trustwalletapp.com/)
- 	- [**Status.im**](https://status.im/)
- 	- [**imToken**](https://token.im/)
+ 	- [Trust Wallet](https://trustwalletapp.com/)
+ 	- [Status.im](https://status.im/)
+ 	- [imToken](https://token.im/)
  - ### Web Wallets
- 	- [**MyCrypto**](https://mycrypto.com)
- 	- [**MyEtherWallet**](https://www.myetherwallet.com/)
+ 	- [MyCrypto](https://mycrypto.com)
+ 	- [MyEtherWallet](https://www.myetherwallet.com/)
  - ### Extension Wallets
-    - [**MetaMask**](https://metamask.io/)
+    - [MetaMask](https://metamask.io/)
  - ### Paper Wallets
- 	-  [**EthAddress.org**](https://github.com/ryepdx/ethaddress.org)
+ 	-  [EthAddress.org](https://github.com/ryepdx/ethaddress.org)
     
 
