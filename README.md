@@ -110,10 +110,6 @@
 - [Introduction to Trusted Execution Environment: ARM's TrustZone](https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html) : Article by Joffrey Guilbon
 
 
-
-
-
-
 ---
 # Partners 
 
@@ -155,13 +151,25 @@
 
 # Developer Resources
 
+## Tutorials 
+
+- [Chainlink Documentation for Contract Creators](https://docs.chain.link/docs/contract-creators-overview)
+- [Chainlink Documentation for Node Operators](https://docs.chain.link/docs/node-operator-overview)
+- [Chainlink Documentation for External Adapters](https://docs.chain.link/docs/external-adapters)
+- [Running a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
+- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
+- [How to use Chainlink with Truffle](https://blog.chain.link/how-to-use-chainlink-with-truffle-2/) : Blog by Chainlink
+- [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink
+- [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges
+
 
 ## Hackathons 
 
-## Tutorials 
+- [The Winning Projects From ETHNewYork Hackathon](https://blog.chain.link/showcasing-the-winning-projects-from-the-ethnewyork-hackathon/) : Article by Chainlink
+- [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink
+- [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink
+- [Chainlink San Francisco Hackathon Champions Reveal Their Winning Projects](https://blog.chain.link/chainlink-hackathon-champions-reveal-their-winning-projects/) : Article by Chainlink
 
-- [Running a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
-- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
 
 ## Follow the developement 
 
