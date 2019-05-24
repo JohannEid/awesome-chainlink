@@ -161,6 +161,7 @@
 - [How to use Chainlink with Truffle](https://blog.chain.link/how-to-use-chainlink-with-truffle-2/) : Blog by Chainlink
 - [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges
+- [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges
 
 ## Key Repos
 
