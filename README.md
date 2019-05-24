@@ -25,7 +25,8 @@
 - [Trade Your LINK](#trade-your-link)
 - [Developer Resources](#developer-resources)
 - [Hackathons](#hackathons)
-- [Oracles in General](#stablecoins-in-general)
+- [Smart Contract in General](#smart-contracts-in-general)
+- [Oracles in General](#oracles-in-general)
 
 <!-- /TOC -->
 
