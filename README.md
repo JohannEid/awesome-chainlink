@@ -8,7 +8,7 @@
 
 > Any contribution to this repo is more then welcome [follow this guide](contribute.md)
 
->Items marked with ![Chainlink Core][Chainlink Core] are officially maintained and distributed by the Chainlink team as part of the core set of resources
+>Items marked with ![Chainlink Core][Chainlink Core] are officially distributed by the Chainlink team as part of the core set of resources
 --- 
 
 ## Table of Contents
@@ -57,7 +57,7 @@
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
 - [What Is ChainLink (LINK)?](https://www.investinblockchain.com/what-is-chainlink-link/) : Invest in Blockchain by David Olarinoye
 - [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
-- [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
+
 
 ## Milestones
 
@@ -92,6 +92,15 @@
 - 03/09/2019 [Oracles Panel at ETHDenver](https://www.youtube.com/watch?v=KG4Qx84fMag)
 - 03/10/2019 [Sergey Nazarov at ETHCC](https://youtu.be/oFkTUFzMJVI)
 - 03/10/2019 [Sergey Nazarov at ETHCC second](https://www.youtube.com/watch?v=s5-i_ZDH_BE)
+
+## Videos by others
+
+- [Chainlink - The Key To Smart Contracts & Upcoming Mainnet on Ethereum](https://www.youtube.com/watch?v=pvnpdjJPsOQ): Video by the Crypto Lark
+- [Chainlink Demo on Kaleido Platform](https://www.youtube.com/watch?v=CMvsUgpwgHY) : Video by Kaleido
+- [Chainlink review 2019 - Connecting Blockchain to real world industries](https://www.youtube.com/watch?v=5zsYmi7nTPM) : Video by Bitassist
+- []()
+
+
 ---
 # Going Deeper 
 
@@ -113,6 +122,15 @@
 ## Critiques 
 
 - [Schelling Network Oracles are Vulnerable to Manipulation](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3) : Article by Jeffrey Ladish for Reserve
+
+## Speculation
+
+- [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 ---
@@ -167,6 +185,7 @@
 - [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges
 - [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges
+- [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g : Video by Johny Huxtable
 
 ## Key Repos
 
@@ -241,7 +260,7 @@
  	-  [EthAddress.org](https://github.com/ryepdx/ethaddress.org)
   
   --- 
-  #  General Ar
+  #  General 
   
  
   ## Smart contracts 
@@ -255,8 +274,6 @@
   - [SchellingCoin: A Minimal-Trust Universal Data Feed](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) : Blog by Vitalik Butterin 
 
 
-
-
   
   ## Other Oracle Projects 
   
@@ -267,6 +284,7 @@
   - [Witnet](https://witnet.io/#/)
   - [Gnosis](https://gnosis.io/)
   - [Augur](https://www.augur.net/)
+  - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
 
   
     
