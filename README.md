@@ -20,7 +20,7 @@
 - [Primers On Chainlink](#primers-on-chainlink) 
 - [Milestones](#milestones)
 - [Videos](#videos) :tv:
-- [Videos by Others](#videos-by-others)
+- [Videos by Others](#videos-by-others) :heart:
 - [Going Deeper](#going-deeper)
 - [Vision](#vision) :eyes:
 - [Town Crier and the TEE](#town-crier-and-the-tee)
