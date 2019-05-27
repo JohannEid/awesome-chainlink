@@ -14,20 +14,32 @@
 ## Table of Contents
 
 <!-- TOC -->
-
 - [Official Material](#official-material)
 - [Official Channels](#official-channels)
-- [Primers On Chainlink](#primers-on-chainlink)
+- [Learn About Chainlink](#learn-about-chainlink) :books:
+- [Primers On Chainlink](#primers-on-chainlink) 
+- [Milestones](#milestones)
+- [Videos](#videos) :tv:
+- [Videos by Others](#videos-by-others)
+- [Going Deeper](#going-deeper)
+- [Vision](#vision) :eyes:
+- [Town Crier and the TEE](#town-crier-and-the-tee)
 - [Critiques](#critiques)
-- [Partnerships](#partnerships)
-- [AMAs | Interviews](#amas--interviews)
-- [Videos](#videos)
-- [Trade Your LINK](#trade-your-link)
-- [Developer Resources](#developer-resources)
+- [Speculation](#speculation)
+- [Partners](#partners) :muscle:
+- [Platform Integrations](#platform-integrations)
+- [Smart Contract Integrations](#smart-contract-integrations)
+- [Developer Resources](#platform-integrations) :hammer:
+- [Tutorials](#tutorials)
+- [Key Repos](#keys-repos)
+- [Framework](#framework)
+- [IDEs](#ides)
 - [Hackathons](#hackathons)
-- [Smart Contract in General](#smart-contracts-in-general)
-- [Oracles in General](#oracles-in-general)
-
+- [Follow the Developemet](#follow-the-developement)
+- [LINK](#store-your-link)
+- [General](#general)
+- [On the Importance of Oracles](#on-the-importance-of-oracles)
+- [Other Oracle Projects](#other-oracle-projects)
 <!-- /TOC -->
 
 ---
@@ -47,9 +59,9 @@
 - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
 
 ---
-# Learn about Chainlink
+# Learn about Chainlink :books:
 
-## Primers on Chainlink
+## Primers on Chainlink 
 
 - [ChainLink, an Overview and Our Focus](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803) : Medium By Sergey Nazarov ![Chainlink Core][Chainlink Core]
 - [Analysis of Chainlink — The Decentralised Oracle Network](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) : Medium by Jonny Huxtable
@@ -67,7 +79,7 @@
 - 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis ![Chainlink Core][Chainlink Core]
 
 
-## Videos`
+## Videos`:tv:
 
 -  04/04/19 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
 - 10/08/2018 [Chainlink Presentation at San Francisco Blockchain Week](https://www.youtube.com/watch?v=G5TQzHIFV-A)
@@ -93,18 +105,17 @@
 - 03/10/2019 [Sergey Nazarov at ETHCC](https://youtu.be/oFkTUFzMJVI)
 - 03/10/2019 [Sergey Nazarov at ETHCC second](https://www.youtube.com/watch?v=s5-i_ZDH_BE)
 
-## Videos by others
+## Videos by others :heart:
 
 - [Chainlink - The Key To Smart Contracts & Upcoming Mainnet on Ethereum](https://www.youtube.com/watch?v=pvnpdjJPsOQ): Video by the Crypto Lark
 - [Chainlink Demo on Kaleido Platform](https://www.youtube.com/watch?v=CMvsUgpwgHY) : Video by Kaleido
 - [Chainlink review 2019 - Connecting Blockchain to real world industries](https://www.youtube.com/watch?v=5zsYmi7nTPM) : Video by Bitassist
-- []()
 
 
 ---
 # Going Deeper 
 
-## Vision
+## Vision :eyes:
 
 - [ChainLink and Its 4 Main Use Cases](https://medium.com/altcoin-magazine/the-four-biggest-use-cases-for-chainlink-a0245bd07b66) : Medium by the Crypto Oracle 
 - [The Fourth Industrial Revolution: The Rise Of The Autonomous Economy](https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3) :  Medium by the Crypto Oracle
@@ -131,7 +142,7 @@
 
 
 ---
-# Partners 
+# Partners :muscle:
 
 ## Platform Integrations 
 
@@ -169,7 +180,7 @@
 
 ---
 
-# Developer Resources
+# Developer Resources :hammer:
 
 ## Tutorials 
 
@@ -262,7 +273,7 @@
  
   ## Smart contracts 
   
-  ## Oracles in the Media
+  ## On the Importance of Oracles
   
   - [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841) : Article by Julien Thenevard
   - [Why Decentralized Oracles Matter](https://medium.com/@peterhaymond/why-decentralized-oracles-matter-7920ad04ee37) : Article by Peter Haymond
