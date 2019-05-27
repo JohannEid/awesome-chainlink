@@ -34,7 +34,7 @@
 
 ## Official Material 
 
-- [Chainlink Website](https://chain.link/)
+- [Chainlink Website](https://chain.link/) 
 - [Developer Documentation](https://docs.chain.link/docs)
 - [Chainlink Whitepaper](https://link.smartcontract.com/whitepaper)
 
@@ -51,7 +51,7 @@
 
 ## Primers on Chainlink
 
-- [ChainLink, an Overview and Our Focus](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803) : Medium By Sergey Nazarov
+- [ChainLink, an Overview and Our Focus](https://medium.com/chainlink/chainlink-an-overview-and-our-focus-14f03335b803) : Medium By Sergey Nazarov ![Chainlink Core][Chainlink Core]
 - [Analysis of Chainlink — The Decentralised Oracle Network](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) : Medium by Jonny Huxtable
 - [Introduction to ChainLink (LINK) – The Decentralized Oracle Network](https://cryptoslate.com/chainlink/) : Cryptoslate article by Sam Town
 - [What is ChainLink? A Beginner’s Guide to Decentralized Oracles](https://coincentral.com/what-is-chainlink-a-beginners-guide-to-decentralized-oracles/) CoinCentral article by Colin Harper
@@ -62,9 +62,9 @@
 ## Milestones
 
 
-- 02/27/2019 [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink
-- 11/12/2018 [CNBC features Chainlink’s Town Crier Announcement](https://blog.chain.link/cnbc-features-chainlinks-town-crier-announcement/)
-- 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis
+- 02/27/2019 [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink ![Chainlink Core][Chainlink Core]
+- 11/12/2018 [CNBC features Chainlink’s Town Crier Announcement](https://blog.chain.link/cnbc-features-chainlinks-town-crier-announcement/) ![Chainlink Core][Chainlink Core]
+- 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis ![Chainlink Core][Chainlink Core]
 
 
 ## Videos`
@@ -176,16 +176,16 @@
 
 ## Tutorials 
 
-- [Chainlink Documentation for Contract Creators](https://docs.chain.link/docs/contract-creators-overview)
-- [Chainlink Documentation for Node Operators](https://docs.chain.link/docs/node-operator-overview)
-- [Chainlink Documentation for External Adapters](https://docs.chain.link/docs/external-adapters)
-- [Running a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges
-- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink
-- [How to use Chainlink with Truffle](https://blog.chain.link/how-to-use-chainlink-with-truffle-2/) : Blog by Chainlink
-- [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink
-- [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges
-- [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges
-- [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g : Video by Johny Huxtable
+- [Chainlink Documentation for Contract Creators](https://docs.chain.link/docs/contract-creators-overview) ![Chainlink Core][Chainlink Core]
+- [Chainlink Documentation for Node Operators](https://docs.chain.link/docs/node-operator-overview) ![Chainlink Core][Chainlink Core]
+- [Chainlink Documentation for External Adapters](https://docs.chain.link/docs/external-adapters) ![Chainlink Core][Chainlink Core]
+- [Running a Chainlink node for the first time](https://medium.com/chainlink/running-a-chainlink-node-for-the-first-time-4988518c95d2) - Blog post by Thomas Hodges ![Chainlink Core][Chainlink Core]
+- [44 Ways to Enhance Your Smart Contract With Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/) : Blog by Chainlink ![Chainlink Core][Chainlink Core]
+- [How to use Chainlink with Truffle](https://blog.chain.link/how-to-use-chainlink-with-truffle-2/) : Blog by Chainlink ![Chainlink Core][Chainlink Core]
+- [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink ![Chainlink Core][Chainlink Core]
+- [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges ![Chainlink Core][Chainlink Core]
+- [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges ![Chainlink Core][Chainlink Core]
+- [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
 
 ## Key Repos
 
@@ -221,17 +221,17 @@
 
 ## Hackathons 
 
-- [The Winning Projects From ETHNewYork Hackathon](https://blog.chain.link/showcasing-the-winning-projects-from-the-ethnewyork-hackathon/) : Article by Chainlink
-- [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink
-- [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink
-- [Chainlink San Francisco Hackathon Champions Reveal Their Winning Projects](https://blog.chain.link/chainlink-hackathon-champions-reveal-their-winning-projects/) : Article by Chainlink
+- [The Winning Projects From ETHNewYork Hackathon](https://blog.chain.link/showcasing-the-winning-projects-from-the-ethnewyork-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
+- [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
+- [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
+- [Chainlink San Francisco Hackathon Champions Reveal Their Winning Projects](https://blog.chain.link/chainlink-hackathon-champions-reveal-their-winning-projects/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 
 
 ## Follow the developement 
 
-- [Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones
-- [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project
-- [Chainlink Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby) : Ask all the questions related to our developement
+- [Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones ![Chainlink Core][Chainlink Core]
+- [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project ![Chainlink Core][Chainlink Core]
+- [Chainlink Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby) : Ask all the questions related to our developement ![Chainlink Core][Chainlink Core]
 
 ---
 
