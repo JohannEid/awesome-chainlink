@@ -287,6 +287,6 @@
   - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
 
   
-  [Chainlink Core]: img/chainlink-logo-.svg
+  [Chainlink Core]: img/chainlink-logo-symbolic.svg
 
 
