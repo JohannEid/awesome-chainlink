@@ -126,11 +126,8 @@
 ## Speculation
 
 - [Our Investment in ChainLink](https://medium.com/@framework_v/https-medium-com-signal-capital-our-investment-in-chainlink-15ab90ee9c02) :  Medium by Framework Venture 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [The Top 5 Reasons Every Institutional Investor Should Have A Position In Chainlink](https://blog.goodaudience.com/the-top-5-reasons-every-institutional-investor-should-have-a-position-in-chainlink-fec15538c1ab) : Medium by the Crypto Oracle
+- [Why We Invested In SmartContract](https://blog.underscore.vc/beyond-the-chain-why-we-invested-in-smartcontract-3a984b912ba9)
 
 
 ---
@@ -185,7 +182,7 @@
 - [Debugging Chainlink with Visual Studio Code](https://blog.chain.link/debugging-chainlink-with-visual-studio-code-2/) : Blog by Chainlink ![Chainlink Core][Chainlink Core]
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges ![Chainlink Core][Chainlink Core]
-- [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
+- [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g) : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
 
 ## Key Repos
 
