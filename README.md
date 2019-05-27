@@ -253,24 +253,20 @@
   - [The Next Step for Stablecoins: Decentralized Oracles](https://medium.com/witnet/the-next-step-for-stablecoins-decentralized-oracles-da12e0792fc) : Article by Jose Garay for Witnet 
   - [The State of Decentralized Oracles](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d) : Article by John Adler for Consensys Media
   - [SchellingCoin: A Minimal-Trust Universal Data Feed](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) : Blog by Vitalik Butterin 
-  - []() 
-  - []() 
-  - []() 
-  - []() 
-  - []() 
+
 
 
 
   
   ## Other Oracle Projects 
   
-  -[iExec](https://iex.ec/decentralized-oracles/)
-  -[Verity](https://verity.network/)
-  -[Ramp](https://ramp.network/)
-  -[Provable](http://www.oraclize.it/)
-  -[Witnet](https://witnet.io/#/)
-  -[Gnosis](https://gnosis.io/)
-  -[Augur](https://www.augur.net/)
+  - [iExec](https://iex.ec/decentralized-oracles/)
+  - [Verity](https://verity.network/)
+  - [Ramp](https://ramp.network/)
+  - [Provable](http://www.oraclize.it/)
+  - [Witnet](https://witnet.io/#/)
+  - [Gnosis](https://gnosis.io/)
+  - [Augur](https://www.augur.net/)
 
   
     
