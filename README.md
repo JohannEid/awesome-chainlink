@@ -110,6 +110,10 @@
  - [Overview of Intel SGX](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html) : Article by Joffrey Guilbon
 - [Introduction to Trusted Execution Environment: ARM's TrustZone](https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html) : Article by Joffrey Guilbon
 
+## Critiques 
+
+- [Schelling Network Oracles are Vulnerable to Manipulation](https://medium.com/reserve-currency/schelling-network-oracles-are-vulnerable-to-manipulation-68d1a88cbcf3) : Article by Jeffrey Ladish for Reserve
+
 
 ---
 # Partners 
@@ -235,5 +239,39 @@
     - [MetaMask](https://metamask.io/)
  - ### Paper Wallets
  	-  [EthAddress.org](https://github.com/ryepdx/ethaddress.org)
+  
+  --- 
+  #  General Ar
+  
+ 
+  ## Smart contracts 
+  
+  ## Oracles in the Media
+  
+  - [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841) : Article by Julien Thenevard
+  - [Why Decentralized Oracles Matter](https://medium.com/@peterhaymond/why-decentralized-oracles-matter-7920ad04ee37) : Article by Peter Haymond
+  - [The Next Step for Stablecoins: Decentralized Oracles](https://medium.com/witnet/the-next-step-for-stablecoins-decentralized-oracles-da12e0792fc) : Article by Jose Garay for Witnet 
+  - [The State of Decentralized Oracles](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d) : Article by John Adler for Consensys Media
+  - [SchellingCoin: A Minimal-Trust Universal Data Feed](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) : Blog by Vitalik Butterin 
+  - []() 
+  - []() 
+  - []() 
+  - []() 
+  - []() 
+
+
+
+  
+  ## Other Oracle Projects 
+  
+  -[iExec](https://iex.ec/decentralized-oracles/)
+  -[Verity](https://verity.network/)
+  -[Ramp](https://ramp.network/)
+  -[Provable](http://www.oraclize.it/)
+  -[Witnet](https://witnet.io/#/)
+  -[Gnosis](https://gnosis.io/)
+  -[Augur](https://www.augur.net/)
+
+  
     
 
