@@ -20,13 +20,13 @@
 - [Primers On Chainlink](#primers-on-chainlink) 
 - [Milestones](#milestones)
 - [Videos](#videos) :tv:
-- [Videos by Others](#videos-by-others) :heart:
+- [Videos by Others](#videos-by-others)
 - [Going Deeper](#going-deeper)
 - [Vision](#vision) :eyes:
 - [Town Crier and the TEE](#town-crier-and-the-tee)
 - [Critiques](#critiques)
 - [Speculation](#speculation)
-- [Partners](#partners) :muscle:
+- [Partners](#partners) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
 - [Developer Resources](#platform-integrations) :hammer:
@@ -105,7 +105,7 @@
 - 03/10/2019 [Sergey Nazarov at ETHCC](https://youtu.be/oFkTUFzMJVI)
 - 03/10/2019 [Sergey Nazarov at ETHCC second](https://www.youtube.com/watch?v=s5-i_ZDH_BE)
 
-## Videos by others :heart:
+## Videos by others 
 
 - [Chainlink - The Key To Smart Contracts & Upcoming Mainnet on Ethereum](https://www.youtube.com/watch?v=pvnpdjJPsOQ): Video by the Crypto Lark
 - [Chainlink Demo on Kaleido Platform](https://www.youtube.com/watch?v=CMvsUgpwgHY) : Video by Kaleido
@@ -142,7 +142,7 @@
 
 
 ---
-# Partners :muscle:
+# Partners 
 
 ## Platform Integrations 
 
