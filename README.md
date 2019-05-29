@@ -294,6 +294,7 @@
   - [Gnosis](https://gnosis.io/)
   - [Augur](https://www.augur.net/)
   - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
+  - [Rhombus](https://rhombus.network/)
 
   
   [Chainlink Core]: img/chainlink-logo-symbolic.svg
