@@ -208,7 +208,7 @@
 - [B3PO](https://devpost.com/software/b3po): ETHSF project, the team created a system that handwrites blockchain-validated information on an absentee voting ballot to be sent through mail.
 - [Blocksolid](https://github.com/unicef-isp-manager): Enabling Cryptocurrency donation for expansion of Internet service and monitoring the connectivity and performance of schools in developing countries.
 - [French Toast Kitty](https://devpost.com/software/french-toast-kitty): We have a new way to interact with your CryptoKitty in the real-world! This app allows you to render a CryptoKitty on a map as well as fetch the weather.
-- [Link Set](https://devpost.com/software/link-set)A Rebalancing crypto index using Chainlink Oracle Price Feed data
+- [Link Set](https://devpost.com/software/link-set): A Rebalancing crypto index using Chainlink Oracle Price Feed data
 - [Synful Futures](https://devpost.com/software/synful-futures): Invest in capital markets of any country. From anywhere in the world. Using ETH. Bye-bye capital controls.
 - [Smart Bets](https://devpost.com/software/smart-bets): Smart Bets is a dApp that allows you to bet on the outcome of future events.
 - [AirPrediction](https://devpost.com/software/airprediction) : An off-chain lightning fast prediction market
