@@ -203,7 +203,24 @@
 - [chainlink-ruby implementation](https://github.com/smartcontractkit/chainlink-ruby)
 - [LinkToken contract](https://github.com/smartcontractkit/LinkToken)
 
+## Chainlinked Hackathon projects
 
+- [B3PO](https://devpost.com/software/b3po): ETHSF project, the team created a system that handwrites blockchain-validated information on an absentee voting ballot to be sent through mail.
+- [Blocksolid](https://github.com/unicef-isp-manager): Enabling Cryptocurrency donation for expansion of Internet service and monitoring the connectivity and performance of schools in developing countries.
+- [French Toast Kitty](https://devpost.com/software/french-toast-kitty): We have a new way to interact with your CryptoKitty in the real-world! This app allows you to render a CryptoKitty on a map as well as fetch the weather.
+- [Link Set](https://devpost.com/software/link-set)A Rebalancing crypto index using Chainlink Oracle Price Feed data
+- [Synful Futures](https://devpost.com/software/synful-futures): Invest in capital markets of any country. From anywhere in the world. Using ETH. Bye-bye capital controls.
+- [Smart Bets](https://devpost.com/software/smart-bets): Smart Bets is a dApp that allows you to bet on the outcome of future events.
+- [AirPrediction](https://devpost.com/software/airprediction) : An off-chain lightning fast prediction market
+- [Canopy](https://devpost.com/software/canopy): Currency Agnostic Data Payment Protocol
+- [Micro Subscription](https://devpost.com/software/micro-subscription): Micro subscription solution for cloud service based on conditional micro payment and onchain oracle
+- [Paperclip Lite](https://devpost.com/software/paperclip): Trustless fiat bank account for dapps.
+- [nanti](https://devpost.com/software/nanti): Corporate bonds that can be used as collateral for fast scalable payments
+- [Cleanedapp](https://devpost.com/software/smartkek): Proof-of-burn "twitter"
+- [RobotRumble](https://devpost.com/software/robotrumble): Whether you're battling with other robots, watching a battle, or betting on your favorite robot driver. RoboRumble is the start of next generation of gaming on the blockchain.
+- [weBet](https://devpost.com/software/webet): A platform for simple 1 to 1 betting based on real world events
+- [EthNYC-Unicef-Challenge](https://devpost.com/software/ethnyc-unicef-challenge): Reducing the digital divide with blockchain & crypto - Connect every kid in the world to the internet
+- [SmartPiggies: EthNewYork](https://devpost.com/software/smartpiggies-ethnewyork): An open source standard for a free peer-to-peer global derivatives market
 
 ## Frameworks
 
