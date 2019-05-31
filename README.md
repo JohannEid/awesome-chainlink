@@ -46,9 +46,10 @@
 
 ## Official Material 
 
-- [Chainlink Website](https://chain.link/) 
-- [Developer Documentation](https://docs.chain.link/docs)
-- [Chainlink Whitepaper](https://link.smartcontract.com/whitepaper)
+- [Chainlink Website](https://chain.link/)  ![Chainlink Core][Chainlink Core]
+- [Developer Documentation](https://docs.chain.link/docs)  ![Chainlink Core][Chainlink Core]
+- [Chainlink Whitepaper](https://link.smartcontract.com/whitepaper)  ![Chainlink Core][Chainlink Core]
+- [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
 
 ## Official Channels
 
