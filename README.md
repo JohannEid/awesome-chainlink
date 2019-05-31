@@ -75,6 +75,7 @@
 ## Milestones
 
 
+- 05/31/2019 [Chainlink: Connected Consensus on Ethereum](https://blog.chain.link/chainlink-live-ethereum-mainnet-connected-consensus/) ![Chainlink Core][Chainlink Core]
 - 02/27/2019 [Chainlink Talks Smart Contracts in SF with Newest Advisor, DocuSign Founder Tom Gonser](https://blog.chain.link/sf-fireside-chat-docusign-tom-gonser/) : Blog post by Chainlink ![Chainlink Core][Chainlink Core]
 - 11/12/2018 [CNBC features Chainlink’s Town Crier Announcement](https://blog.chain.link/cnbc-features-chainlinks-town-crier-announcement/) ![Chainlink Core][Chainlink Core]
 - 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis ![Chainlink Core][Chainlink Core]
@@ -124,12 +125,13 @@
 - [Blockchain smart contracts are finally good for something in the real world](https://www.technologyreview.com/s/612443/blockchain-smart-contracts-can-finally-have-a-real-world-impact/) : Mit Technology Review by Mike Orcutt
 - [Blockchain As A Platform- The real killer use case for Blockchain & DLT](https://medium.com/@pappas999/blockchain-as-a-platform-the-real-killer-use-case-for-blockchain-dlt-8dfe5b164ca2) : Medium post by Harry Papacharissiou
 
-## Town Crier and the TEE 
+## Defense in Depth
 
 - [Town Crier and Chainlink: Enriching and Extending the Possibilities of Oracles](https://blog.chain.link/town-crier-and-chainlink/) : Blog post by Ari Juels 
 - [Town Crier:An Authenticated Data Feed for Smart Contracts](https://eprint.iacr.org/2016/168.pdf) : Research paper by Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi
  - [Overview of Intel SGX](https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html) : Article by Joffrey Guilbon
 - [Introduction to Trusted Execution Environment: ARM's TrustZone](https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html) : Article by Joffrey Guilbon
+- [Threshold Signatures in Chainlink](https://blog.chain.link/threshold-signatures-in-chainlink/): Article by Chainlink
 
 ## Critiques 
 
