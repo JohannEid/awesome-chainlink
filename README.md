@@ -49,7 +49,6 @@
 - [Chainlink Website](https://chain.link/)  ![Chainlink Core][Chainlink Core]
 - [Developer Documentation](https://docs.chain.link/docs)  ![Chainlink Core][Chainlink Core]
 - [Chainlink Whitepaper](https://link.smartcontract.com/whitepaper)  ![Chainlink Core][Chainlink Core]
-- [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
 
 ## Official Channels
 
@@ -143,6 +142,20 @@
 - [The Top 5 Reasons Every Institutional Investor Should Have A Position In Chainlink](https://blog.goodaudience.com/the-top-5-reasons-every-institutional-investor-should-have-a-position-in-chainlink-fec15538c1ab) : Medium by the Crypto Oracle
 - [Why We Invested In SmartContract](https://blog.underscore.vc/beyond-the-chain-why-we-invested-in-smartcontract-3a984b912ba9)
 
+---
+# Node Operators 
+
+## Services 
+
+- [LinkPool](https://www.linkpool.io/)
+- [Fiews](https://fiews.io/)
+
+## Marketplaces
+
+
+## Explorers
+
+- [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
 
 ---
 # Partners 
