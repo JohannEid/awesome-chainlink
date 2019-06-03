@@ -332,6 +332,7 @@
   - [Augur](https://www.augur.net/)
   - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
   - [Rhombus](https://rhombus.network/)
+  - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
 
   
   [Chainlink Core]: img/chainlink-logo-symbolic.svg
