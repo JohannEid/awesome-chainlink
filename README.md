@@ -333,6 +333,7 @@
   - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
   - [Rhombus](https://rhombus.network/)
   - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
+  - [Polaris](https://medium.com/marbleorg/introducing-polaris-ced195dd798e)
 
   
   [Chainlink Core]: img/chainlink-logo-symbolic.svg
