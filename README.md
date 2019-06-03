@@ -218,9 +218,7 @@
 
 ## Key Repos
 
-- [chainlink-go decentralized network of oracles code](https://github.com/smartcontractkit/chainlink)
-- [Chainlinked class](https://github.com/smartcontractkit/Chainlinked)
-- [chainlink-ruby implementation](https://github.com/smartcontractkit/chainlink-ruby)
+- [chainlink-go Chainlink core node ](https://github.com/smartcontractkit/chainlink)
 - [LinkToken contract](https://github.com/smartcontractkit/LinkToken)
 
 ## Chainlinked Hackathon projects
