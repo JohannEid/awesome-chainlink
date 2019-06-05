@@ -342,7 +342,6 @@
 
  The wiki is open source and anyone is free to contribute, if you spot any errors or want to add some content that hasn't been added yet please follow this guide : 
  
- ``
 1. Click on `Fork` in the top right hand corner
 2. The awesome-chainlink will be cloned in your own repo, you will be redirected to https://github.com/your_handle/awesome-chainlink
 3. From here you can edit a page directly by clicking on a file and edit it (click on the pen on the top right-hand corner)
