@@ -6,7 +6,7 @@
 
 [Chainlink](https://chain.link/) is a decentralized network of oracles that allow smart contracts to securely interface with external data feeds, events and payment methods. Chainlinks provide the critical off chain information needed by complex smart contracts to become the dominant form of digital agreement. 
 
-> Any contribution to this repo is more then welcome [follow this guide](contribute.md)
+> Any contribution to this repo is more then welcome [follow the section details](#contributing)
 
 >Items marked with ![Chainlink Core][Chainlink Core] are officially distributed by the Chainlink team as part of the core set of resources
 --- 
@@ -44,6 +44,7 @@
 - [General](#general)
 - [On the Importance of Oracles](#on-the-importance-of-oracles)
 - [Other Oracle Projects](#other-oracle-projects)
+- [Contributing](#contributing)
 <!-- /TOC -->
 
 ---
@@ -335,6 +336,18 @@
   - [Rhombus](https://rhombus.network/)
   - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
   - [Polaris](https://medium.com/marbleorg/introducing-polaris-ced195dd798e)
+  
+  ---
+  # Contributing
+  
+ ## Guidelines
+ 
+ 
+ ## Guide to contribute 
+ 
+ The wiki is open source and anyone is free to contribute, if you spot any errors or want to add some content that hasn't been added yet please follow this guide : 
+ 
+ 
 
   
   [Chainlink Core]: img/chainlink-logo-symbolic.svg
