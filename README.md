@@ -339,13 +339,21 @@
   
   ---
   # Contributing
-  
- ## Guidelines
- 
- 
- ## Guide to contribute 
- 
+
  The wiki is open source and anyone is free to contribute, if you spot any errors or want to add some content that hasn't been added yet please follow this guide : 
+ 
+ ``
+1. Click on `Fork` in the top right hand corner
+2. The awesome-chainlink will be cloned in your own repo, you will be redirected to https://github.com/your_handle/awesome-chainlink
+3. From here you can edit a page directly by clicking on a file and edit it (click on the pen on the top right-hand corner)
+4. Once you are done editing, describe with precision and commit your changes in your master branch
+5. You will now be able to submit a PR (Pull request) to awesome-chainlink
+6. Click on the  `Pull Requests` and then on the `New Pull Request` button
+7. From here, you are able to select what branch of your repo should be merged to what branch on awesome-chainlink repo
+8. Select the default option to merge from your master branch to the awesome-chainlink master branch.
+9. Double check the modifications you made and click on `Create a Pull Request` when you are sure
+10. Describe your changes and submit it!
+
  
  
 
