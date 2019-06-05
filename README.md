@@ -86,7 +86,8 @@
 
 ## Videos`:tv:
 
--  04/04/19 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
+-  02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)
+-  04/04/2019 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
 - 10/08/2018 [Chainlink Presentation at San Francisco Blockchain Week](https://www.youtube.com/watch?v=G5TQzHIFV-A)
 - 12/12/2018 [ChainLink NYC Ethereum meetup](https://www.youtube.com/watch?v=YBP0qT9SRlU)
 - 02/30/2018 [Sergey Nazarov, CEO - Chainlink - Securely connecting Smart Contracts to off-chain data and events](https://www.youtube.com/watch?v=XYiEPFRHV9A)
@@ -109,6 +110,7 @@
 - 03/09/2019 [Oracles Panel at ETHDenver](https://www.youtube.com/watch?v=KG4Qx84fMag)
 - 03/10/2019 [Sergey Nazarov at ETHCC](https://youtu.be/oFkTUFzMJVI)
 - 03/10/2019 [Sergey Nazarov at ETHCC second](https://www.youtube.com/watch?v=s5-i_ZDH_BE)
+
 
 ## Videos by others 
 
