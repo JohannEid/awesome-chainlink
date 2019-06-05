@@ -156,6 +156,7 @@
 
 - [LinkPool](https://www.linkpool.io/)
 - [Fiews](https://fiews.io/)
+- [Secure Data Links](https://www.securedatalinks.com/)
 
 ## Marketplaces
 
