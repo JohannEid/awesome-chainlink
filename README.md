@@ -170,7 +170,8 @@
 
 ## Platform Integrations 
 
-- 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
+-  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
+ - 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
 -  05/08/2019 [IOST](https://medium.com/iost/iost-x-chainlink-bringing-real-world-data-on-chain-for-iost-dapps-503b00512a83)
 -  05/28/2019 [Ocean Protocol](https://blog.oceanprotocol.com/ocean-protocol-chainlink-integration-e7335f880ea3)
 -  11/12/2018 [Wanchain](https://wanchain.org/)
@@ -179,7 +180,7 @@
 
 ## Smart Contract Integrations
 
--  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
+
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
 -  04/29/2019 [Streamr](https://medium.com/streamrblog/streamr-chainlink-oracle-integration-f17ee6c5462c)
 -  03/21/2019 [Data Sports Groups](http://datasportsgroup.com/)
