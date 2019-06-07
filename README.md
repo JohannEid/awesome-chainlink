@@ -315,6 +315,8 @@
  
   ## Smart contracts 
   
+  -[The Power of Smart Contracts: What They Are and How They Can Revolutionize the Future](https://blog.chain.link/the-power-of-smart-contracts-what-they-are-and-how-they-can-revolutionize-the-future/)![Chainlink Core][Chainlink Core]
+  
   ## On the Importance of Oracles
   
   - [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841) : Article by Julien Thenevard
