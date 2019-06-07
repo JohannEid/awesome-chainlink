@@ -39,7 +39,7 @@
 - [Framework](#framework)
 - [IDEs](#ides)
 - [Hackathons](#hackathons)
-- [Follow the Developemet](#follow-the-developement)
+- [Follow the Development](#follow-the-development)
 - [LINK](#store-your-link)
 - [General](#general)
 - [On the Importance of Oracles](#on-the-importance-of-oracles)
