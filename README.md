@@ -87,6 +87,7 @@
 
 ## Videos`:tv:
 
+-  05/05/2019 [ScalingEthereum 2019 - Chainlink](https://www.youtube.com/watch?v=qSE7COtf4vU)
 -  02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)
 -  04/04/2019 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
 - 10/08/2018 [Chainlink Presentation at San Francisco Blockchain Week](https://www.youtube.com/watch?v=G5TQzHIFV-A)
