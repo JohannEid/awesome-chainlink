@@ -85,7 +85,7 @@
 - 03/14/2018 [Go Chainlink!](https://blog.chain.link/go-chainlink/) : Blog post by Steven Ellis ![Chainlink Core][Chainlink Core]
 
 
-## Videos`:tv:
+## Videos :tv:
 
 -  05/05/2019 [ScalingEthereum 2019 - Chainlink](https://www.youtube.com/watch?v=qSE7COtf4vU)
 -  02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)
