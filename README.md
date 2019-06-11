@@ -181,6 +181,7 @@
 ## Smart Contract Integrations
 
 
+ - 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
 -  04/29/2019 [Streamr](https://medium.com/streamrblog/streamr-chainlink-oracle-integration-f17ee6c5462c)
 -  03/21/2019 [Data Sports Groups](http://datasportsgroup.com/)
