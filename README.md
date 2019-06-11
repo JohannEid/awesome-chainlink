@@ -170,6 +170,7 @@
 
 ## Platform Integrations 
 
+- 10/06/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c`)
 -  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
  - 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
 -  05/08/2019 [IOST](https://medium.com/iost/iost-x-chainlink-bringing-real-world-data-on-chain-for-iost-dapps-503b00512a83)
