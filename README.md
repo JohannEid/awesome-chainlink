@@ -76,6 +76,7 @@
 - [ChainLink: Detailed Review on the Project](https://medium.com/paradigm-fund/chainlink-detailed-review-on-the-project-9dbd5e050974) : Medium by Paradigm 
 
 
+
 ## Milestones
 
 
@@ -323,6 +324,8 @@
   
   ## On the Importance of Oracles
   
+  
+  - [Oracles: The Key to Unlocking Smart Contracts](https://blog.chain.link/oracles-the-key-to-unlocking-smart-contracts/) Article by Chainlink ![Chainlink Core][Chainlink Core]
   - [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841) : Article by Julien Thenevard
   - [Why Decentralized Oracles Matter](https://medium.com/@peterhaymond/why-decentralized-oracles-matter-7920ad04ee37) : Article by Peter Haymond
   - [The Next Step for Stablecoins: Decentralized Oracles](https://medium.com/witnet/the-next-step-for-stablecoins-decentralized-oracles-da12e0792fc) : Article by Jose Garay for Witnet 
