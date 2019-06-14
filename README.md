@@ -166,10 +166,11 @@
 - [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
 
 ---
-# Partners 
+# Integrations 
 
 ## Platform Integrations 
 
+- 13/06/2019 [Google](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud)
 - 10/06/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c`)
 -  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
  - 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
