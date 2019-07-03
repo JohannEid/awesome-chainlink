@@ -30,7 +30,7 @@
 - [Services](#services)
 - [Marketplaces](#marketplaces)
 - [Explorers](#explorers)
-- [Partners](#partners) 
+- [Integrations](#integrations) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
 - [Developer Resources](#platform-integrations) :hammer:
@@ -171,6 +171,7 @@
 
 ## Platform Integrations 
 
+- 01/07/2019 [Credits](https://medium.com/@credits/credits-integrates-chainlink-to-enable-connected-smart-contracts-452999b475b9)
 - 13/06/2019 [Google](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud)
 - 10/06/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c`)
 -  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
@@ -183,8 +184,9 @@
 
 ## Smart Contract Integrations
 
-
- - 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
+- 06/20/2019 [V Systems](https://medium.com/vsystems/v-systems-and-chainlink-announce-collaboration-912122717307) 
+- 06/17/2019 [Dapps](https://medium.com/@dominic_60828/dapps-inc-collaborates-with-chainlink-to-enable-salesforce-users-with-accurate-real-time-data-907defcba2bd?_referrer=twitter)
+- 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
 -  04/29/2019 [Streamr](https://medium.com/streamrblog/streamr-chainlink-oracle-integration-f17ee6c5462c)
 -  03/21/2019 [Data Sports Groups](http://datasportsgroup.com/)
