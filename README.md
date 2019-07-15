@@ -209,7 +209,6 @@
 -  08/14/2018 [OpenLaw](https://www.openlaw.io/)
 -  07/28/2018 [Accord Project](https://www.accordproject.org/)
 -  12/18/2017  [OpenZeppelin](https://zeppelinos.org/)
--  07/2017 [Clintex](https://www.clintex.io/)
 
 ---
 
