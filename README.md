@@ -220,8 +220,8 @@
 -  08/22/2018 [MARKET Protocol](https://marketprotocol.io/)
 -  08/14/2018 [OpenLaw](https://www.openlaw.io/)
 -  07/28/2018 [Accord Project](https://www.accordproject.org/)
--  07/17/2018 [Clintex](https://medium.com/clintexcti/clintex-partners-with-chainlink-b64bc3ca8255)
--  12/18/2017 [OpenZeppelin](https://zeppelinos.org/)
+-  12/18/2017  [OpenZeppelin](https://zeppelinos.org/)
+
 ---
 
 # Developer Resources :hammer:
