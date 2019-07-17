@@ -62,6 +62,8 @@
 - [Medium](https://medium.com/chainlink)
 - [Telegram](https://t.me/chainlinkofficial)
 - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
+- [Discord](https://discordapp.com/invite/rCUqTAC)
+
 
 ---
 # Learn about Chainlink :books:
@@ -120,6 +122,7 @@
 - [Chainlink - The Key To Smart Contracts & Upcoming Mainnet on Ethereum](https://www.youtube.com/watch?v=pvnpdjJPsOQ): Video by the Crypto Lark
 - [Chainlink Demo on Kaleido Platform](https://www.youtube.com/watch?v=CMvsUgpwgHY) : Video by Kaleido
 - [Chainlink review 2019 - Connecting Blockchain to real world industries](https://www.youtube.com/watch?v=5zsYmi7nTPM) : Video by Bitassist
+- [Oracle's Fernando Ribeiro and Pablo Freitas at CloudExpo 2019: API Monetization with Smart Contracts, Oracle and Chainlink](https://www.youtube.com/watch?v=tb1siyB6r_I) : Video by CloudExpo
 
 
 ---
@@ -158,6 +161,12 @@
 
 - [LinkPool](https://www.linkpool.io/)
 - [Fiews](https://fiews.io/)
+- [CLC Group](https://www.clcg.io/)
+- [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
+- [NodePool](https://www.nodepool.link/)
+- [ChainLayer](https://www.chainlayer.io/)
+- [LinkForest](https://www.linkforest.io/)
+- [Certus One](https://certus.one/)
 
 ## Marketplaces
 
@@ -171,7 +180,9 @@
 
 ## Platform Integrations 
 
+- 07/09/2019 [Neblio](https://medium.com/neblio-blog/neblio-and-chainlink-to-bring-decentralized-oracles-to-the-neblio-blockchain-8e7f42098bb)
 - 01/07/2019 [Credits](https://medium.com/@credits/credits-integrates-chainlink-to-enable-connected-smart-contracts-452999b475b9)
+- 14/06/2019 [ThunderCore](https://medium.com/thundercore/thundercore-and-chainlink-announce-collaboration-233a7688712a)
 - 13/06/2019 [Google](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud)
 - 10/06/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c`)
 -  06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
@@ -184,7 +195,8 @@
 
 ## Smart Contract Integrations
 
-- 06/20/2019 [V Systems](https://medium.com/vsystems/v-systems-and-chainlink-announce-collaboration-912122717307) 
+- 07/10/2019 [Ampleforth](https://medium.com/ampleforth/chainlink-to-power-ampl-oracle-73b882d9c7a8) 
+- 06/20/2019 [V Systems](https://medium.com/vsystems/v-systems-and-chainlink-announce-collaboration-912122717307)
 - 06/17/2019 [Dapps](https://medium.com/@dominic_60828/dapps-inc-collaborates-with-chainlink-to-enable-salesforce-users-with-accurate-real-time-data-907defcba2bd?_referrer=twitter)
 - 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
@@ -193,14 +205,14 @@
 -  03/11/2019 [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/)
 -  03/07/2019 [Provable (Oraclize)](https://provable.xyz/)
 -  02/06/2019 [Naka Chain](https://medium.com/@NakaChain/bodhi-and-naka-chain-integrate-chainlink-to-bring-dapp-development-to-the-next-stage-27fbfd1a8b75)
--  31/01/2019 [Katallassos](https://katal.io/)
--  12/18/2018 [STK](https://stktoken.com/)
+-  01/31/2019 [Katallassos](https://medium.com/@TrinklerSoftware/katallassos-to-use-chainlink-for-data-feeds-43bfda459f2b)
+-  12/18/2018 [STK](https://medium.com/stk-token/stk-to-use-chainlink-to-bridge-real-life-data-with-blockchain-e960df06ca3a)
 -  12/13/2018 [Mobilium](https://www.xcard.io/)
 -  12/07/2018 [ETHA](https://etharemit.org/)
--  11/29/2018 [Olympus Labs](https://olympuslabs.io/)
+-  11/29/2018 [Olympus Labs](https://medium.com/olympuslabsbc/olympus-labs-and-chainlink-integrate-decentralized-oracles-into-financial-products-for-reliable-17ad07bc5c80)
 -  11/29/2018 [RTrade Technologies Ltd](https://www.rtradetechnologies.com/en/)
 -  11/14/2018 [Kaiko](https://www.kaiko.com/)
--  11/09/2018 [Hydrogen](https://www.hydrogenplatform.com/)
+-  11/09/2018 [Hydrogen](https://medium.com/hydrogen-api/hydrogen-partners-with-chainlink-fc058a3fd477)
 -  11/06/2018 [bZx](https://b0x.network/)
 -  10/31/2018 [Morpheus Network](https://morpheus.network/)
 -  09/05/2018 [Brave New Coin](https://bravenewcoin.com/)
