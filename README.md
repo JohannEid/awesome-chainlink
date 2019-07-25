@@ -90,6 +90,7 @@
 
 ## Videos :tv:
 
+-  05/05/2019 [Sergey Nazarov - Chainlink, Connected Consensus on Ethereum @ Starfish Network](https://youtu.be/9bR5CKmugqo?t=2284)
 -  05/05/2019 [ScalingEthereum 2019 - Chainlink](https://www.youtube.com/watch?v=qSE7COtf4vU)
 -  02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)
 -  04/04/2019 [TOKEN2049 - Connecting Smart Contracts to Off-chain Data - Sergey Nazarov](https://www.youtube.com/watch?v=BvySkHcq1ac)
@@ -167,9 +168,12 @@
 - [ChainLayer](https://www.chainlayer.io/)
 - [LinkForest](https://www.linkforest.io/)
 - [Certus One](https://certus.one/)
+- [Omniscience](https://omniscience.uk/)
+- [Stake.Fish](https://stake.fish)
 
 ## Marketplaces
 
+- [Linkpool Marketplace - coming soon](https://medium.com/linkpool/announcing-the-first-chainlink-marketplace-a0dbfd5d13e3)
 
 ## Explorers
 
@@ -180,6 +184,8 @@
 
 ## Platform Integrations 
 
+- 07/23/2019 [INT Chain](https://medium.com/int-chain/int-chain-officially-collaborated-with-chainlink-bb4fe54126b2)
+- 07/12/2019 [IoTeX](https://medium.com/iotex/iotex-chainlink-delivering-real-world-data-to-the-blockchain-17abb11981a7)
 - 07/09/2019 [Neblio](https://medium.com/neblio-blog/neblio-and-chainlink-to-bring-decentralized-oracles-to-the-neblio-blockchain-8e7f42098bb)
 - 01/07/2019 [Credits](https://medium.com/@credits/credits-integrates-chainlink-to-enable-connected-smart-contracts-452999b475b9)
 - 14/06/2019 [ThunderCore](https://medium.com/thundercore/thundercore-and-chainlink-announce-collaboration-233a7688712a)
@@ -189,39 +195,42 @@
  - 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
 -  05/08/2019 [IOST](https://medium.com/iost/iost-x-chainlink-bringing-real-world-data-on-chain-for-iost-dapps-503b00512a83)
 -  05/28/2019 [Ocean Protocol](https://blog.oceanprotocol.com/ocean-protocol-chainlink-integration-e7335f880ea3)
--  11/12/2018 [Wanchain](https://wanchain.org/)
--  11/08/2019 [Kaleido](https://kaleido.io/)
+-  11/12/2018 [Wanchain](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181)
+-  11/08/2019 [Kaleido](https://kaleido.io/kaleido-selects-chainlink-to-provide-oracle-services-for-blockchain-business-cloud/)
 -  10/22/2019 [Web3](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a)
 
 ## Smart Contract Integrations
 
 - 07/25/2019 [Akropolis](https://medium.com/akropolis/the-importance-of-choosing-the-right-oracles-for-decentralized-finance-chainlink-and-akropolis-9387b98d289)
+- 07/23/2019 [Oracle for Startups](https://blogs.oracle.com/startup/every-startup-in-the-blockchain-with-oracle-cloud-and-chainlink)
+- 07/18/2019 [Elrond](https://medium.com/elrondnetwork/elrond-to-use-chainlink-a-decentralized-oracle-network-e8d633abe035)
+- 07/16/2019 [Scroll](https://medium.com/@officialscroll/scroll-plans-to-use-chainlink-technology-in-enterprise-supply-chain-product-941f6bea3fb5)
 - 07/10/2019 [Ampleforth](https://medium.com/ampleforth/chainlink-to-power-ampl-oracle-73b882d9c7a8) 
 - 06/20/2019 [V Systems](https://medium.com/vsystems/v-systems-and-chainlink-announce-collaboration-912122717307)
 - 06/17/2019 [Dapps](https://medium.com/@dominic_60828/dapps-inc-collaborates-with-chainlink-to-enable-salesforce-users-with-accurate-real-time-data-907defcba2bd?_referrer=twitter)
 - 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
 -  04/29/2019 [Streamr](https://medium.com/streamrblog/streamr-chainlink-oracle-integration-f17ee6c5462c)
--  03/21/2019 [Data Sports Groups](http://datasportsgroup.com/)
+-  03/21/2019 [Data Sports Groups](https://datasportsgroup.com/latestnews/dsg-teams-up-with-chainlink-to-bring-live-sports-data-to-smart-contracts/)
 -  03/11/2019 [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/)
 -  03/07/2019 [Provable (Oraclize)](https://provable.xyz/)
 -  02/06/2019 [Naka Chain](https://medium.com/@NakaChain/bodhi-and-naka-chain-integrate-chainlink-to-bring-dapp-development-to-the-next-stage-27fbfd1a8b75)
 -  01/31/2019 [Katallassos](https://medium.com/@TrinklerSoftware/katallassos-to-use-chainlink-for-data-feeds-43bfda459f2b)
 -  12/18/2018 [STK](https://medium.com/stk-token/stk-to-use-chainlink-to-bridge-real-life-data-with-blockchain-e960df06ca3a)
--  12/13/2018 [Mobilium](https://www.xcard.io/)
--  12/07/2018 [ETHA](https://etharemit.org/)
+-  12/13/2018 [Mobilum](https://medium.com/@Mobilumcom/mobilum-to-use-chainlink-for-cryptocurrency-price-data-feed-for-trading-platform-906e5c91f67)
+-  12/07/2018 [ETHA](https://medium.com/etharemit/etha-partners-with-chainlink-to-provide-decentralized-oracle-solution-for-blockchain-remittances-87c83d3da866)
 -  11/29/2018 [Olympus Labs](https://medium.com/olympuslabsbc/olympus-labs-and-chainlink-integrate-decentralized-oracles-into-financial-products-for-reliable-17ad07bc5c80)
--  11/29/2018 [RTrade Technologies Ltd](https://www.rtradetechnologies.com/en/)
--  11/14/2018 [Kaiko](https://www.kaiko.com/)
+-  11/29/2018 [RTrade Technologies Ltd](https://medium.com/rtrade-technologies/rtrade-technologies-to-use-chainlink-to-provide-oracles-for-high-quality-off-chain-data-storage-cb37c566d6)
+-  11/14/2018 [Kaiko](https://medium.com/@kaikodata/kaiko-partners-with-chainlink-to-bring-cryptocurrency-market-data-to-smart-contracts-1a2f9f428465)
 -  11/09/2018 [Hydrogen](https://medium.com/hydrogen-api/hydrogen-partners-with-chainlink-fc058a3fd477)
--  11/06/2018 [bZx](https://b0x.network/)
--  10/31/2018 [Morpheus Network](https://morpheus.network/)
--  09/05/2018 [Brave New Coin](https://bravenewcoin.com/)
--  09/19/2018 [GameDex](https://www.gamedex.co/)
--  08/22/2018 [MARKET Protocol](https://marketprotocol.io/)
--  08/14/2018 [OpenLaw](https://www.openlaw.io/)
+-  11/06/2018 [bZx](https://medium.com/bzxnetwork/bzx-teams-up-with-chainlink-5b9649e8c241)
+-  10/31/2018 [Morpheus Network](https://medium.com/morpheus-network/morpheus-network-partners-with-leading-decentralized-oracle-network-provider-chainlink-for-b6d197637ce1)
+-  09/05/2018 [Brave New Coin](https://bravenewcoin.com/insights/brave-new-coin-now-a-chainlink-node-operator)
+-  09/19/2018 [GameDex](https://medium.com/gamedex/decentralized-oracle-service-chainlink-partners-with-gamedex-on-smart-contracts-9b516ddd51b9)
+-  08/22/2018 [MARKET Protocol](https://medium.com/market-protocol/market-protocol-and-chainlink-team-up-to-enable-off-chain-asset-trading-on-the-ethereum-network-72c3ff4a3e1c)
+-  08/14/2018 [OpenLaw](https://media.consensys.net/bridging-the-fiat-crypto-divide-431eee00d5bf)
 -  07/28/2018 [Accord Project](https://www.accordproject.org/)
--  12/18/2017  [OpenZeppelin](https://zeppelinos.org/)
+-  12/18/2017  [OpenZeppelin](https://blog.zeppelinos.org/chainlink-partnership/)
 
 ---
 
@@ -350,17 +359,20 @@
   
   ## Other Oracle Projects 
   
-  - [iExec](https://iex.ec/decentralized-oracles/)
-  - [Verity](https://verity.network/)
-  - [Ramp](https://ramp.network/)
-  - [Provable](http://www.oraclize.it/)
-  - [Witnet](https://witnet.io/#/)
-  - [Gnosis](https://gnosis.io/)
   - [Augur](https://www.augur.net/)
+  - [Gnosis](https://gnosis.io/)
+  - [iExec's dOracles](https://iex.ec/decentralized-oracles/)
   - [Maker DAO's Medianizer](https://developer.makerdao.com/feeds/)
-  - [Rhombus](https://rhombus.network/)
-  - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
   - [Polaris](https://medium.com/marbleorg/introducing-polaris-ced195dd798e)
+  - [Provable (formerly Oraclize)](http://provable.xyz/)
+  - [Ramp](https://ramp.network/)
+  - [Rhombus](https://rhombus.network/)
+  - [Tellor](https://tellor.io/)
+  - [UMA Project](https://umaproject.org/)
+  - [Vechain's oracles](https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7)
+  - [Verity](https://verity.network/)
+  - [Witnet](https://witnet.io/#/)
+
   
   ---
   # Contributing
