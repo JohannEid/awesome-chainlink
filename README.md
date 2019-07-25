@@ -195,6 +195,7 @@
 
 ## Smart Contract Integrations
 
+- 07/25/2019 [Akropolis](https://medium.com/akropolis/the-importance-of-choosing-the-right-oracles-for-decentralized-finance-chainlink-and-akropolis-9387b98d289)
 - 07/10/2019 [Ampleforth](https://medium.com/ampleforth/chainlink-to-power-ampl-oracle-73b882d9c7a8) 
 - 06/20/2019 [V Systems](https://medium.com/vsystems/v-systems-and-chainlink-announce-collaboration-912122717307)
 - 06/17/2019 [Dapps](https://medium.com/@dominic_60828/dapps-inc-collaborates-with-chainlink-to-enable-salesforce-users-with-accurate-real-time-data-907defcba2bd?_referrer=twitter)
