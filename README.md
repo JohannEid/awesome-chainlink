@@ -224,7 +224,7 @@
 
 ---
 
-# Developer Resources :hammer:
+# Developer Resources
 
 ## Tutorials 
 
