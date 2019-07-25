@@ -33,7 +33,7 @@
 - [Integrations](#integrations) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
-- [Developer Resources](#platform-integrations) :hammer:
+- [Developer Resources](#developer-resources) :hammer:
 - [Tutorials](#tutorials)
 - [Key Repos](#keys-repos)
 - [Framework](#framework)
