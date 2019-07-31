@@ -172,7 +172,7 @@
 - [Stake.Fish](https://stake.fish)
 - [Wetez](https://www.wetez.io)
 - [Validation Capital](https://validation.capital/)
-- [NewRoad Capital(https://newroad.capital/)
+- [NewRoad Capital](https://newroad.capital/)
 
 ## Marketplaces
 
