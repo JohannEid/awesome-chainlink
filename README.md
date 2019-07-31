@@ -187,6 +187,7 @@
 
 ## Platform Integrations 
 
+- 07/30/2019 [Zilliqa](https://www.cryptoninjas.net/2019/07/30/zilliqa-smart-contracts-will-utilize-chainlink-decentralized-oracle-network/)
 - 07/27/2019 [Bytom](https://medium.com/@Bytom_Official/bytom-to-deploy-chainlink-to-empower-smart-contracts-dc86bf997e68)
 - 07/26/2019 [QuarkChain](https://medium.com/@quarkchainio/quarkchain-integrates-chainlink-to-move-blockchain-applications-forward-6d004fcef4f3)
 - 07/23/2019 [INT Chain](https://medium.com/int-chain/int-chain-officially-collaborated-with-chainlink-bb4fe54126b2)
