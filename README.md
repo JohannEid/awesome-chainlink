@@ -170,6 +170,9 @@
 - [Certus One](https://certus.one/)
 - [Omniscience](https://omniscience.uk/)
 - [Stake.Fish](https://stake.fish)
+- [Wetez](https://www.wetez.io)
+- [Validation Capital](https://validation.capital/)
+- [NewRoad Capital(https://newroad.capital/)
 
 ## Marketplaces
 
@@ -184,6 +187,8 @@
 
 ## Platform Integrations 
 
+- 07/27/2019 [Bytom](https://medium.com/@Bytom_Official/bytom-to-deploy-chainlink-to-empower-smart-contracts-dc86bf997e68)
+- 07/26/2019 [QuarkChain](https://medium.com/@quarkchainio/quarkchain-integrates-chainlink-to-move-blockchain-applications-forward-6d004fcef4f3)
 - 07/23/2019 [INT Chain](https://medium.com/int-chain/int-chain-officially-collaborated-with-chainlink-bb4fe54126b2)
 - 07/12/2019 [IoTeX](https://medium.com/iotex/iotex-chainlink-delivering-real-world-data-to-the-blockchain-17abb11981a7)
 - 07/09/2019 [Neblio](https://medium.com/neblio-blog/neblio-and-chainlink-to-bring-decentralized-oracles-to-the-neblio-blockchain-8e7f42098bb)
@@ -201,6 +206,7 @@
 
 ## Smart Contract Integrations
 
+- 07/30/2019 [STP Network](https://medium.com/@StandardTokenizationProtocol/stp-network-and-chainlink-announce-collaboration-cec9fc7f7c52)
 - 07/25/2019 [Akropolis](https://medium.com/akropolis/the-importance-of-choosing-the-right-oracles-for-decentralized-finance-chainlink-and-akropolis-9387b98d289)
 - 07/23/2019 [Oracle for Startups](https://blogs.oracle.com/startup/every-startup-in-the-blockchain-with-oracle-cloud-and-chainlink)
 - 07/18/2019 [Elrond](https://medium.com/elrondnetwork/elrond-to-use-chainlink-a-decentralized-oracle-network-e8d633abe035)
@@ -210,6 +216,7 @@
 - 06/17/2019 [Dapps](https://medium.com/@dominic_60828/dapps-inc-collaborates-with-chainlink-to-enable-salesforce-users-with-accurate-real-time-data-907defcba2bd?_referrer=twitter)
 - 06/10/2019 [Reserve](https://medium.com/reserve-currency/reserve-partners-with-chainlink-to-bolster-the-future-of-decentralized-stablecoins-5d486f37e92b)
 -  05/28/2019 [Shyft](https://medium.com/shyft-network-media/shyft-network-attestation-layer-to-integrate-chainlinks-oracle-network-for-secure-and-reliable-caf2dd3978f)
+-  05/23/2019 [Amberdata](https://medium.com/amberdata/smart-contract-oracles-with-amberdata-io-358c2c422d8a)
 -  04/29/2019 [Streamr](https://medium.com/streamrblog/streamr-chainlink-oracle-integration-f17ee6c5462c)
 -  03/21/2019 [Data Sports Groups](https://datasportsgroup.com/latestnews/dsg-teams-up-with-chainlink-to-bring-live-sports-data-to-smart-contracts/)
 -  03/11/2019 [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/)
