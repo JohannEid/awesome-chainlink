@@ -174,11 +174,14 @@
 - [Validation Capital](https://validation.capital/)
 - [NewRoad Capital](https://newroad.capital/)
 - [SimplyVC](https://www.simply-vc.com.mt/)
+- [2iq](https://www.2iqresearch.com/)
+- [Fibus](http://fibus.io/)
+- [NorthEast](https://www.northeast.limited/)
 
 ## Marketplaces
 
-- [Linkpool Marketplace - coming soon](https://medium.com/linkpool/announcing-the-first-chainlink-marketplace-a0dbfd5d13e3)
-- [CLC Honeycomb API Marketplace](https://medium.com/clc-group/honeycomb-api-marketplace-is-live-d539e4443b2c)
+- [Linkpool Marketplace - find and list nodes, jobs and adapters](https://medium.com/linkpool/launching-the-chainlink-market-2be2cbc4443)
+- [CLC Honeycomb API Marketplace - connect smart contracts to premium APIs at per-call pricing](https://medium.com/clc-group/honeycomb-api-marketplace-is-live-d539e4443b2c)
 
 ## Explorers
 
