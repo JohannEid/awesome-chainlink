@@ -173,10 +173,12 @@
 - [Wetez](https://www.wetez.io)
 - [Validation Capital](https://validation.capital/)
 - [NewRoad Capital](https://newroad.capital/)
+- [SimplyVC](https://www.simply-vc.com.mt/)
 
 ## Marketplaces
 
 - [Linkpool Marketplace - coming soon](https://medium.com/linkpool/announcing-the-first-chainlink-marketplace-a0dbfd5d13e3)
+- [CLC Honeycomb API Marketplace](https://medium.com/clc-group/honeycomb-api-marketplace-is-live-d539e4443b2c)
 
 ## Explorers
 
@@ -207,6 +209,10 @@
 
 ## Smart Contract Integrations
 
+- 08/07/2019 [Cortex Labs](https://medium.com/cortexlabs/cortex-brings-secure-real-world-data-to-ai-smart-contracts-using-chainlink-71a6bd616c0e)
+- 08/05/2019 [Carnomic](https://medium.com/carnomic-io/carnomic-will-integrate-chainlink-to-bring-future-ready-products-to-the-masses-1536134274b2)
+- 08/04/2019 [LiquidApps](https://medium.com/the-liquidapps-blog/liquidapps-liquidoracles-and-chainlink-together-on-ethereum-eos-blockchains-14ea7ff81364)
+- 08/02/2019 [Callisto Network](https://callisto.network/blog/post/callisto-announces-integration-of-chainlink-oracles/)
 - 07/30/2019 [STP Network](https://medium.com/@StandardTokenizationProtocol/stp-network-and-chainlink-announce-collaboration-cec9fc7f7c52)
 - 07/25/2019 [Akropolis](https://medium.com/akropolis/the-importance-of-choosing-the-right-oracles-for-decentralized-finance-chainlink-and-akropolis-9387b98d289)
 - 07/23/2019 [Oracle for Startups](https://blogs.oracle.com/startup/every-startup-in-the-blockchain-with-oracle-cloud-and-chainlink)
