@@ -220,8 +220,8 @@
 
 ## Smart Contract Integrations
 
-- 08/07/2019 [Morpheus Labs](https://medium.com/@morpheuslabs_io/morpheus-labs-to-deploy-chainlink-on-its-bpaas-platform-3f1d23f25f25)
-- 08/07/2019 [COTI](https://medium.com/cotinetwork/coti-is-deploying-its-global-trust-system-gts-on-chainlink-e440a30eab27)
+- 08/14/2019 [Morpheus Labs](https://medium.com/@morpheuslabs_io/morpheus-labs-to-deploy-chainlink-on-its-bpaas-platform-3f1d23f25f25)
+- 08/12/2019 [COTI](https://medium.com/cotinetwork/coti-is-deploying-its-global-trust-system-gts-on-chainlink-e440a30eab27)
 - 08/07/2019 [Cortex Labs](https://medium.com/cortexlabs/cortex-brings-secure-real-world-data-to-ai-smart-contracts-using-chainlink-71a6bd616c0e)
 - 08/05/2019 [Carnomic](https://medium.com/carnomic-io/carnomic-will-integrate-chainlink-to-bring-future-ready-products-to-the-masses-1536134274b2)
 - 08/04/2019 [LiquidApps](https://medium.com/the-liquidapps-blog/liquidapps-liquidoracles-and-chainlink-together-on-ethereum-eos-blockchains-14ea7ff81364)
