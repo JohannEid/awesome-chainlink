@@ -161,7 +161,6 @@
 ## Services 
 
 [Nodes verified and listed by Chainlink:](https://docs.chain.link/docs/decentralized-oracles-ethereum-mainnet)
-
 - [LinkPool](https://www.linkpool.io/)
 - [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
 - [CLC Group Honeycomb](https://www.clcg.io/)
@@ -177,8 +176,7 @@
 - [SimplyVC](https://www.simply-vc.com.mt/)
 - [SNZHolding](https://snzholding.com/pool)
 
-Nodes listed on Linkpool marketplace:
-
+[Nodes listed on Linkpool's Chainlink Market:](https://market.link/search/nodes?&sortBy=created_at&sortOrder=desc)
 - [NodePool](https://www.nodepool.link/)
 - [2iq](https://www.2iqresearch.com/)
 - [Fibus](http://fibus.io/)
