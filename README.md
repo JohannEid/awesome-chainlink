@@ -160,11 +160,12 @@
 
 ## Services 
 
+[Nodes verified and listed by Chainlink:](https://docs.chain.link/docs/decentralized-oracles-ethereum-mainnet)
+
 - [LinkPool](https://www.linkpool.io/)
-- [Fiews](https://fiews.io/)
-- [CLC Group](https://www.clcg.io/)
+- [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
+- [CLC Group Honeycomb](https://www.clcg.io/)
 - [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
-- [NodePool](https://www.nodepool.link/)
 - [ChainLayer](https://www.chainlayer.io/)
 - [LinkForest](https://www.linkforest.io/)
 - [Certus One](https://certus.one/)
@@ -174,9 +175,17 @@
 - [Validation Capital](https://validation.capital/)
 - [NewRoad Capital](https://newroad.capital/)
 - [SimplyVC](https://www.simply-vc.com.mt/)
+- [SNZHolding](https://snzholding.com/pool)
+
+Nodes listed on Linkpool marketplace:
+
+- [NodePool](https://www.nodepool.link/)
 - [2iq](https://www.2iqresearch.com/)
 - [Fibus](http://fibus.io/)
 - [NorthEast](https://www.northeast.limited/)
+- [Moonbounce Alpha](http://moonbounce.io/)
+- [ABC Nodes](https://twitter.com/abcnodes)
+- [MyLinkNode](https://mylinknode.com/)
 
 ## Marketplaces
 
@@ -186,6 +195,7 @@
 ## Explorers
 
 - [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
+- [Chainlink Explorer link to ETH-USD reference contract](https://explorer.chain.link/job-runs?search=0x79fEbF6B9F76853EDBcBc913e6aAE8232cFB9De9)
 
 ---
 # Integrations 
@@ -212,6 +222,8 @@
 
 ## Smart Contract Integrations
 
+- 08/07/2019 [Morpheus Labs](https://medium.com/@morpheuslabs_io/morpheus-labs-to-deploy-chainlink-on-its-bpaas-platform-3f1d23f25f25)
+- 08/07/2019 [COTI](https://medium.com/cotinetwork/coti-is-deploying-its-global-trust-system-gts-on-chainlink-e440a30eab27)
 - 08/07/2019 [Cortex Labs](https://medium.com/cortexlabs/cortex-brings-secure-real-world-data-to-ai-smart-contracts-using-chainlink-71a6bd616c0e)
 - 08/05/2019 [Carnomic](https://medium.com/carnomic-io/carnomic-will-integrate-chainlink-to-bring-future-ready-products-to-the-masses-1536134274b2)
 - 08/04/2019 [LiquidApps](https://medium.com/the-liquidapps-blog/liquidapps-liquidoracles-and-chainlink-together-on-ethereum-eos-blockchains-14ea7ff81364)
@@ -247,7 +259,7 @@
 -  08/22/2018 [MARKET Protocol](https://medium.com/market-protocol/market-protocol-and-chainlink-team-up-to-enable-off-chain-asset-trading-on-the-ethereum-network-72c3ff4a3e1c)
 -  08/14/2018 [OpenLaw](https://media.consensys.net/bridging-the-fiat-crypto-divide-431eee00d5bf)
 -  07/28/2018 [Accord Project](https://www.accordproject.org/)
--  12/18/2017  [OpenZeppelin](https://blog.zeppelinos.org/chainlink-partnership/)
+-  12/18/2017 [OpenZeppelin](https://blog.zeppelinos.org/chainlink-partnership/)
 
 ---
 
