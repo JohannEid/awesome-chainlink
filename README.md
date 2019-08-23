@@ -163,6 +163,7 @@
 [Nodes verified and listed by Chainlink:](https://docs.chain.link/docs/decentralized-oracles-ethereum-mainnet)
 - [LinkPool](https://www.linkpool.io/)
 - [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
+- [Kaiko](https://www.kaiko.com)
 - [CLC Group Honeycomb](https://www.clcg.io/)
 - [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
 - [ChainLayer](https://www.chainlayer.io/)
@@ -332,7 +333,7 @@
 - [Chainlink San Francisco Hackathon Champions Reveal Their Winning Projects](https://blog.chain.link/chainlink-hackathon-champions-reveal-their-winning-projects/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 
 
-## Follow the developement 
+## Follow the development
 
 - [Chainlink Issues](https://github.com/smartcontractkit/chainlink/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) Follow the current issues and submit new ones ![Chainlink Core][Chainlink Core]
 - [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2129823): Follow the developement of the project ![Chainlink Core][Chainlink Core]
