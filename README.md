@@ -30,6 +30,7 @@
 - [Services](#services)
 - [Marketplaces](#marketplaces)
 - [Explorers](#explorers)
+- [Adapters](#adapters)
 - [Integrations](#integrations) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
@@ -195,6 +196,10 @@
 
 - [Chainlink Explorer](https://explorer.chain.link/) ![Chainlink Core][Chainlink Core]
 - [Chainlink Explorer link to ETH-USD reference contract](https://explorer.chain.link/job-runs?search=0x79fEbF6B9F76853EDBcBc913e6aAE8232cFB9De9)
+
+## Adapters
+
+- [Pandascore esports match results Chainlink adapter](https://github.com/linkbutlerservices/pandascore-adapter)
 
 ---
 # Integrations 
