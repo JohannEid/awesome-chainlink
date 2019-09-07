@@ -208,7 +208,7 @@
 - 06/14/2019 [ThunderCore](https://medium.com/thundercore/thundercore-and-chainlink-announce-collaboration-233a7688712a)
 - 06/13/2019 [Google](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud)
 - 05/28/2019 [Ocean Protocol](https://blog.oceanprotocol.com/ocean-protocol-chainlink-integration-e7335f880ea3)
-- 06/10/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c`)
+- 06/10/2019 [GoChain](https://medium.com/gochain/gochain-collaborates-with-chainlink-to-integrate-oracles-24b202ca264c)
 - 06/06/2019 [Harmony](https://medium.com/harmony-one/harmony-to-partner-with-chainlink-for-off-chain-connectivity-fc0372819aca)
 - 07/01/2019 [Credits](https://medium.com/@credits/credits-integrates-chainlink-to-enable-connected-smart-contracts-452999b475b9)
 - 07/09/2019 [Neblio](https://medium.com/neblio-blog/neblio-and-chainlink-to-bring-decentralized-oracles-to-the-neblio-blockchain-8e7f42098bb)
