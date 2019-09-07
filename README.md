@@ -203,7 +203,8 @@
 
 - 11/08/2018 [Kaleido](https://kaleido.io/kaleido-selects-chainlink-to-provide-oracle-services-for-blockchain-business-cloud/)
 - 11/12/2018 [Wanchain](https://medium.com/wanchain-foundation/wanchain-adds-real-world-data-in-partnership-with-chainlink-a7ecf919e181)
-- 10/22/2018 [Web3](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a)- 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
+- 10/22/2018 [Web3](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a)
+- 05/08/2019 [Hedera Hashgraph](https://www.hedera.com/blog/hedera-hashgraph-and-chainlink-collaborate-to-provide-a-decentralized-oracle-network-for-hederas-enterprise-grade-distributed-public-ledger)
 - 05/08/2019 [IOST](https://medium.com/iost/iost-x-chainlink-bringing-real-world-data-on-chain-for-iost-dapps-503b00512a83)
 - 06/14/2019 [ThunderCore](https://medium.com/thundercore/thundercore-and-chainlink-announce-collaboration-233a7688712a)
 - 06/13/2019 [Google](https://cloud.google.com/blog/products/data-analytics/building-hybrid-blockchain-cloud-applications-with-ethereum-and-google-cloud)
