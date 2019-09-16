@@ -36,6 +36,7 @@
 - [Developer Resources](#developer-resources) :hammer:
 - [Tutorials](#tutorials)
 - [Key Repos](#keys-repos)
+- [Chainlinked Hackathon projects](#chainlinked-hackathon-projects)
 - [Framework](#framework)
 - [IDEs](#ides)
 - [Hackathons](#hackathons)
