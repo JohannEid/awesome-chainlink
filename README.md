@@ -333,6 +333,7 @@
 
 ## Hackathons 
 
+- [The Winning Projects From ETHBerlin Zwei Hackathon](https://blog.chain.link/showcasing-the-winners-of-the-etherlin-zwei-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects From ETHNewYork Hackathon](https://blog.chain.link/showcasing-the-winning-projects-from-the-ethnewyork-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
