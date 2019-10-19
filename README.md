@@ -167,7 +167,7 @@
 - [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
 - [Kaiko](https://www.kaiko.com)
 - [CLC Group Honeycomb](https://www.clcg.io/)
-- [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
+- [Secure Data Links](https://www.securedatalinks.com)
 - [ChainLayer](https://www.chainlayer.io/)
 - [LinkForest](https://www.linkforest.io/)
 - [Certus One](https://certus.one/)
@@ -282,6 +282,7 @@
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g) : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
+- [Running Chainlink Nodes on Kubernetes and the Google Cloud Platform](https://medium.com/secure-data-links/running-chainlink-nodes-on-kubernetes-and-the-google-cloud-platform-1fab922b3a1a) : Blog by Secure Data Links
 
 ## Key Repos
 
