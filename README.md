@@ -35,6 +35,7 @@
 - [Marketplaces](#marketplaces)
 - [Explorers](#explorers)
 - [Adapters](#adapters)
+- [Resources](#resources)
 - [Integrations](#integrations) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
@@ -205,6 +206,10 @@
 ## Adapters
 
 - [Pandascore esports match results Chainlink adapter](https://github.com/linkbutlerservices/pandascore-adapter)
+
+## Resources
+
+- [Chainlink Playbook](https://github.com/maketz/chainlink-playbook)
 
 ---
 # Integrations 
