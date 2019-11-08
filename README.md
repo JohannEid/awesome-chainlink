@@ -9,6 +9,10 @@
 > Any contribution to this repo is more then welcome [follow the section details](#contributing)
 
 >Items marked with ![Chainlink Core][Chainlink Core] are officially distributed by the Chainlink team as part of the core set of resources
+
+>If your Chinese Developer, welcome to visit [Awesome Chainlink CN](https://github.com/vlyl/awesome-chainlink-cn/blob/master/README.md) repo.  
+>如果您是来自中文区的开发者,欢迎访问[中文资料站](https://github.com/vlyl/awesome-chainlink-cn/blob/master/README.md).
+
 --- 
 
 ## Table of Contents
@@ -31,6 +35,7 @@
 - [Marketplaces](#marketplaces)
 - [Explorers](#explorers)
 - [Adapters](#adapters)
+- [Resources](#resources)
 - [Integrations](#integrations) 
 - [Platform Integrations](#platform-integrations)
 - [Smart Contract Integrations](#smart-contract-integrations)
@@ -167,7 +172,7 @@
 - [Fiews](https://fiews.io/) (also provides ETH node-as-a-service)
 - [Kaiko](https://www.kaiko.com)
 - [CLC Group Honeycomb](https://www.clcg.io/)
-- [Secure Data Links](https://medium.com/secure-data-links/secure-data-links-5f8d852c9624)
+- [Secure Data Links](https://www.securedatalinks.com)
 - [ChainLayer](https://www.chainlayer.io/)
 - [LinkForest](https://www.linkforest.io/)
 - [Certus One](https://certus.one/)
@@ -202,6 +207,10 @@
 ## Adapters
 
 - [Pandascore esports match results Chainlink adapter](https://github.com/linkbutlerservices/pandascore-adapter)
+
+## Resources
+
+- [Chainlink Playbook](https://github.com/maketz/chainlink-playbook)
 
 ---
 # Integrations 
@@ -284,6 +293,7 @@
 - [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g) : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
 - [ChainlinkAdapters.com Guides - Guides related to setting up and running external adapters](https://chainlinkadapters.com/guides) : Guides by Fiews
+- [Running Chainlink Nodes on Kubernetes and the Google Cloud Platform](https://medium.com/secure-data-links/running-chainlink-nodes-on-kubernetes-and-the-google-cloud-platform-1fab922b3a1a) : Blog by Secure Data Links
 
 ## Key Repos
 
@@ -335,6 +345,7 @@
 
 ## Hackathons 
 
+- [The Winning Projects From ETHBerlin Zwei Hackathon](https://blog.chain.link/showcasing-the-winners-of-the-etherlin-zwei-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects From ETHNewYork Hackathon](https://blog.chain.link/showcasing-the-winning-projects-from-the-ethnewyork-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
