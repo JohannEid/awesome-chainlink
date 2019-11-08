@@ -197,6 +197,7 @@
 
 - [Linkpool Marketplace - find and list nodes, jobs and adapters](https://medium.com/linkpool/launching-the-chainlink-market-2be2cbc4443)
 - [CLC Honeycomb API Marketplace - connect smart contracts to premium APIs at per-call pricing](https://medium.com/clc-group/honeycomb-api-marketplace-is-live-d539e4443b2c)
+- [ChainlinkAdapters.com – Find Chainlink external adapters](https://chainlinkadapters.com/)
 
 ## Explorers
 
@@ -291,6 +292,7 @@
 - [Chainlink External Adapters Explained](https://blog.chain.link/chainlink-external-adapters-explained/) : Blog by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETH Denver Chainlinked contract workshop](https://www.youtube.com/watch?v=J6lICnmWSPM) : Video by Thomas Hodges ![Chainlink Core][Chainlink Core]
 - [ETHParis: Chainlink - How to connect your smart contract to external data](https://www.youtube.com/watch?v=Mm6_SGcew5g) : Video by Johny Huxtable ![Chainlink Core][Chainlink Core]
+- [ChainlinkAdapters.com Guides - Guides related to setting up and running external adapters](https://chainlinkadapters.com/guides) : Guides by Fiews
 - [Running Chainlink Nodes on Kubernetes and the Google Cloud Platform](https://medium.com/secure-data-links/running-chainlink-nodes-on-kubernetes-and-the-google-cloud-platform-1fab922b3a1a) : Blog by Secure Data Links
 
 ## Key Repos
