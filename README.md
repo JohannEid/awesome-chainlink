@@ -183,6 +183,7 @@
 - [NewRoad Capital](https://newroad.capital/)
 - [SimplyVC](https://www.simply-vc.com.mt/)
 - [SNZHolding](https://snzholding.com/pool)
+- [Ztake](https://ztake.org/)
 
 [Nodes listed on Linkpool's Chainlink Market:](https://market.link/search/nodes?&sortBy=created_at&sortOrder=desc)
 - [NodePool](https://www.nodepool.link/)
@@ -350,6 +351,7 @@
 - [The Winning Projects from ETHParis Hackathon](https://blog.chain.link/the-winning-projects-from-ethparis-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [The Winning Projects from the ETHDenver Hackathon](https://blog.chain.link/detailing-the-winning-chainlink-projects-from-ethdenver-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 - [Chainlink San Francisco Hackathon Champions Reveal Their Winning Projects](https://blog.chain.link/chainlink-hackathon-champions-reveal-their-winning-projects/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
+- [Congratulations to the Winners of the Chainlink Virtual Hackathon](https://blog.chain.link/winners-of-the-chainlink-virtual-hackathon/) : Article by Chainlink ![Chainlink Core][Chainlink Core]
 
 
 ## Follow the development
