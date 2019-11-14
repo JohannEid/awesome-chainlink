@@ -183,6 +183,7 @@
 - [NewRoad Capital](https://newroad.capital/)
 - [SimplyVC](https://www.simply-vc.com.mt/)
 - [SNZHolding](https://snzholding.com/pool)
+- [Ztake.org](https://www.ztake.org/)
 
 [Nodes listed on Linkpool's Chainlink Market:](https://market.link/search/nodes?&sortBy=created_at&sortOrder=desc)
 - [NodePool](https://www.nodepool.link/)
