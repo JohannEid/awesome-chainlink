@@ -229,7 +229,7 @@
 # Integrations 
 
 ## Mainnet User Integrations
-- [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/
+- [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/)
 - [Loopring](https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27)
 - [Aave](https://medium.com/aave/pop-the-champagne-aave-protocol-is-live-721731763b58)
 - [Ampleforth](https://medium.com/ampleforth/chainlink-to-power-ampl-oracle-73b882d9c7a8)
