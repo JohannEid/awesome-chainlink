@@ -10,7 +10,7 @@
 
 >Items marked with ![Chainlink Core][Chainlink Core] are officially distributed by the Chainlink team as part of the core set of resources
 
->If your Chinese Developer, welcome to visit [Awesome Chainlink CN](https://github.com/vlyl/awesome-chainlink-cn/blob/master/README.md) repo.  
+>If you're a Chinese Developer, welcome to visit [Awesome Chainlink CN](https://github.com/vlyl/awesome-chainlink-cn/blob/master/README.md) repo.  
 >如果您是来自中文区的开发者,欢迎访问[中文资料站](https://github.com/vlyl/awesome-chainlink-cn/blob/master/README.md).
 
 --- 
