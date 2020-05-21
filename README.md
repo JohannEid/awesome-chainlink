@@ -70,6 +70,7 @@
 - [Telegram](https://t.me/chainlinkofficial)
 - [Gitter](https://gitter.im/smartcontractkit-chainlink/Lobby)
 - [Discord](https://discordapp.com/invite/rCUqTAC)
+- [Events](https://events.chain.link)
 
 
 ---
@@ -96,7 +97,19 @@
 
 
 ## Videos :tv:
-
+-  04/09/2020 [Set Protocol and Chainlink Video AMA with Anthony Sassano](https://www.youtube.com/watch?v=DpKtp52yzFI&t=2s)
+-  04/02/2020 [Aave and Chainlink Video AMA with Stani Kulechov](https://www.youtube.com/watch?v=1A-b0v5VeZA)
+-  04/01/2020 [Kava and Chainlink Q&A with Sergey Nazarov](https://www.youtube.com/watch?v=tJHwCqCqFA8)
+-  03/26/2020 [DMM and Chainlink Q&A](https://www.youtube.com/watch?v=iYbWxAm7NuU&t=10s)
+-  03/24/2020 [Chainlink and Ampleforth Virtual Meetup and Q&A: Defi Needs Better Primitives](https://www.youtube.com/watch?v=r3UWuXu-Msk)
+-  03/12/2020 [Off-chain Labs and Chainlink Video Q&A](https://www.youtube.com/watch?v=8Cp0MGmEdDY&t=2s)
+-  03/06/2020 [Fireside Chat with Ari Juels and Sergey Nazarov - Connected Smart Contracts San Francisco](https://www.youtube.com/watch?v=ioJ23XAl2z0)
+-  01/15/2020 [Aave and Chainlink Video Q&A](https://www.youtube.com/watch?v=BHzzaDdcmWM&t=977s)
+-  01/09/2020 [Loopring and Chainlink Video Q&A](https://www.youtube.com/watch?v=eAgKaxLGnq8&t=1282s)
+-  12/19/2019 [Chainlink and Synthetix Fireside Chat with Justin Moses and Johann Eid](https://www.youtube.com/watch?v=YWR3qENDebg)
+-  10/09/2019 [Sergey Nazarov - DevCon5](https://www.youtube.com/watch?v=eePZhhoNkY4)
+-  10/03/2019 [New Exploration: The Future of Blockchain - Shanghai International Blockchain Week 2019](https://www.youtube.com/watch?v=FdiJCvYfVHQ)
+-  09/19/2019 [Web3 Summit 2019: Sergey Nazarov](https://www.youtube.com/watch?v=FDoLr7myvxo)
 -  05/05/2019 [Sergey Nazarov - Chainlink, Connected Consensus on Ethereum @ Starfish Network](https://youtu.be/9bR5CKmugqo?t=2284)
 -  05/05/2019 [ScalingEthereum 2019 - Chainlink](https://www.youtube.com/watch?v=qSE7COtf4vU)
 -  02/07/2019 [Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)
@@ -215,6 +228,20 @@
 
 ---
 # Integrations 
+
+## Mainnet User Integrations
+- [Synthetix](https://blog.synthetix.io/synthetix-and-chainlink/)
+- [Loopring](https://medium.com/loopring-protocol/chainlink-and-loopring-collaborate-on-oracles-for-zkrollup-dex-protocol-c1c8094afc27)
+- [Aave](https://medium.com/aave/pop-the-champagne-aave-protocol-is-live-721731763b58)
+- [Ampleforth](https://medium.com/ampleforth/chainlink-to-power-ampl-oracle-73b882d9c7a8)
+- [Set Protocol](https://medium.com/set-protocol/introducing-the-link-rsi-set-on-tokensets-fe3b4fcacf94)
+- [Nexus Mutual](https://medium.com/nexus-mutual/nexus-mutual-is-now-using-chainlinks-price-reference-data-contracts-for-decentralized-valuations-6a62c5d4e030)
+- [Open Law](https://medium.com/@OpenLawOfficial/openlaw-teams-with-chainlink-to-bring-real-world-info-to-smart-contracts-4e7a3dac80a8)
+- [Decentralized Money Market (DMM)](https://medium.com/dmm-dao/defi-money-market-dmm-and-chainlink-launch-higher-yield-money-market-on-the-ethereum-mainnet-9a48eed1f40d)
+- [bZx](https://bzx.network/blog/chainlink-oracles)
+- [Haven](https://medium.com/@havencurrency/haven-integrates-chainlink-to-further-its-mission-of-enabling-private-decentralized-finance-28fce90b3797)
+- [1inch Exchange](https://twitter.com/chainlink/status/1242096675482750977?s=20)
+
 
 ## Platform Integrations 
 
