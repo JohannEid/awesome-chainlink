@@ -197,6 +197,7 @@
 - [SimplyVC](https://www.simply-vc.com.mt/)
 - [SNZHolding](https://snzholding.com/pool)
 - [Ztake](https://ztake.org/)
+- [Everstake](https://everstake.one)
 
 [Nodes listed on Linkpool's Chainlink Market:](https://market.link/search/nodes?&sortBy=created_at&sortOrder=desc)
 - [NodePool](https://www.nodepool.link/)
