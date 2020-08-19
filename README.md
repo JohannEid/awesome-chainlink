@@ -97,6 +97,7 @@
 
 
 ## Videos :tv:
+-  06/28/2020 [Sergey Nazarov - Research Topics on Oracle Mechanism Security](https://www.youtube.com/watch?v=t29bBBYTfAc&list=LL4ZxUXqaZAKEyIYsd6C90Kg)
 -  04/09/2020 [Set Protocol and Chainlink Video AMA with Anthony Sassano](https://www.youtube.com/watch?v=DpKtp52yzFI&t=2s)
 -  04/02/2020 [Aave and Chainlink Video AMA with Stani Kulechov](https://www.youtube.com/watch?v=1A-b0v5VeZA)
 -  04/01/2020 [Kava and Chainlink Q&A with Sergey Nazarov](https://www.youtube.com/watch?v=tJHwCqCqFA8)
