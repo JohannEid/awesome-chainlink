@@ -207,6 +207,7 @@
 - [Moonbounce Alpha](http://moonbounce.io/)
 - [ABC Nodes](https://twitter.com/abcnodes)
 - [MyLinkNode](https://mylinknode.com/)
+- [DexTrac](https://dex.trace.link)
 
 ## Marketplaces
 
