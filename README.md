@@ -198,6 +198,7 @@
 - [SNZHolding](https://snzholding.com/pool)
 - [Ztake](https://ztake.org/)
 - [Everstake](https://everstake.one)
+- [Pythia Oracle](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - Calculated technical indicators (EMA, RSI, Bollinger Bands, Volatility) on-chain for 22 crypto tokens. MCP server + LangChain integration for AI agents.
 
 [Nodes listed on Linkpool's Chainlink Market:](https://market.link/search/nodes?&sortBy=created_at&sortOrder=desc)
 - [NodePool](https://www.nodepool.link/)
